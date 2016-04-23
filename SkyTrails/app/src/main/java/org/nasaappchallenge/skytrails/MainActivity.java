@@ -3,10 +3,11 @@ package org.nasaappchallenge.skytrails;
 import android.hardware.Camera;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-public class MainActivity extends AppCompatActivity  implements SurfaceHolder.Callback {
+public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback {
 
 	Camera camera;
 	SurfaceView surfaceView;
@@ -17,10 +18,9 @@ public class MainActivity extends AppCompatActivity  implements SurfaceHolder.Ca
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		surfaceView = (SurfaceView)findViewById(R.id.surfaceView1);
+		surfaceView = (SurfaceView) findViewById(R.id.surfaceView1);
 		surfaceHolder = surfaceView.getHolder();
 		surfaceHolder.addCallback(this);
-		surfaceHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
 	}
 
 	@Override
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity  implements SurfaceHolder.Ca
 			camera.setPreviewDisplay(holder);
 
 		} catch (Exception e) {
-			e.printStackTrace();
+			Log.d("Surface created", e.getMessage());
 		}
 	}
 
