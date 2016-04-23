@@ -116,6 +116,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 				canvas.translate(0.0f, 0.0f - dy);
 
 				Paint paint = new Paint();
+				paint.setStrokeWidth(6.0f);
 				paint.setColor(Color.RED);
 
 				// make our line big enough to draw regardless of rotation and translation
@@ -126,7 +127,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 				canvas.translate(0.0f - dx, 0.0f);
 
 				// draw our point -- we've rotated and translated this to the right spot already
-				canvas.drawCircle(canvas.getWidth() / 2, canvas.getHeight() / 2, 8.0f, paint);
+				canvas.drawCircle(canvas.getWidth() / 2, canvas.getHeight() / 2, 20.0f, paint);
 
 				// Undo
 				canvas.translate(0.0f + dx, 0.0f);
@@ -221,16 +222,24 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 	private final static Location mountWashington = new Location("manual");
 
 	static {
-		mountWashington.setLatitude(46.775472d);
-		mountWashington.setLongitude(23.595470d);
-		mountWashington.setAltitude(1916.5d);
+		mountWashington.setLatitude(46.777903d);
+		mountWashington.setLongitude(23.596767d);
+		mountWashington.setAltitude(0d);
 	}
 
 	private final static Location mountWashington2 = new Location("manual2");
 
 	static {
-		mountWashington.setLatitude(46.788856d);
-		mountWashington.setLongitude(23.708677d);
-		mountWashington.setAltitude(1916.5d);
+		mountWashington2.setLatitude(46.774750d);
+		mountWashington2.setLongitude(23.612566d);
+		mountWashington2.setAltitude(0d);
+	}
+
+	private final static Location staticLocation = new Location("initial");
+
+	static {
+		staticLocation.setLatitude(46.7617231d);
+		staticLocation.setLongitude(23.5820956d);
+		staticLocation.setAltitude(160.5d);
 	}
 }
