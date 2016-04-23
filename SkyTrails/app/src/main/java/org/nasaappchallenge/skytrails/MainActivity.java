@@ -13,14 +13,18 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 	SurfaceView surfaceView;
 	SurfaceHolder surfaceHolder;
 
+	CameraOverlayView overlayView;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		surfaceView = (SurfaceView) findViewById(R.id.surfaceView1);
+		surfaceView = (SurfaceView) findViewById(R.id.surfaceViewCamera);
 		surfaceHolder = surfaceView.getHolder();
 		surfaceHolder.addCallback(this);
+
+		overlayView = (CameraOverlayView) findViewById(R.id.surfaceViewOverlay);
 	}
 
 	@Override
