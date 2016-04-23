@@ -1,0 +1,6559 @@
+{
+  "trackEntries": [
+    {
+      "date": 577564000,
+      "lat": 40.6277,
+      "lon": -73.7702,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 178,
+      "mph": 205,
+      "feets": 600
+    },
+    {
+      "date": 577579000,
+      "lat": 40.6224,
+      "lon": -73.7538,
+      "course": 103,
+      "direction": "East",
+      "knots": 190,
+      "mph": 219,
+      "feets": 1200
+    },
+    {
+      "date": 577594000,
+      "lat": 40.6208,
+      "lon": -73.7372,
+      "course": 94,
+      "direction": "East",
+      "knots": 205,
+      "mph": 236,
+      "feets": 1600
+    },
+    {
+      "date": 577623000,
+      "lat": 40.6168,
+      "lon": -73.6977,
+      "course": 98,
+      "direction": "East",
+      "knots": 238,
+      "mph": 274,
+      "feets": 2300
+    },
+    {
+      "date": 577638000,
+      "lat": 40.6139,
+      "lon": -73.6746,
+      "course": 99,
+      "direction": "East",
+      "knots": 243,
+      "mph": 280,
+      "feets": 3100
+    },
+    {
+      "date": 577653000,
+      "lat": 40.6108,
+      "lon": -73.6518,
+      "course": 100,
+      "direction": "East",
+      "knots": 258,
+      "mph": 297,
+      "feets": 3600
+    },
+    {
+      "date": 577668000,
+      "lat": 40.6098,
+      "lon": -73.6296,
+      "course": 80,
+      "direction": "East",
+      "knots": 263,
+      "mph": 303,
+      "feets": 4100
+    },
+    {
+      "date": 577683000,
+      "lat": 40.617,
+      "lon": -73.6077,
+      "course": 55,
+      "direction": "Northeast",
+      "knots": 259,
+      "mph": 298,
+      "feets": 4800
+    },
+    {
+      "date": 577701000,
+      "lat": 40.6339,
+      "lon": -73.5902,
+      "course": 35,
+      "direction": "Northeast",
+      "knots": 254,
+      "mph": 292,
+      "feets": 5900
+    },
+    {
+      "date": 577716000,
+      "lat": 40.6494,
+      "lon": -73.5772,
+      "course": 32,
+      "direction": "Northeast",
+      "knots": 256,
+      "mph": 295,
+      "feets": 6600
+    },
+    {
+      "date": 577731000,
+      "lat": 40.6642,
+      "lon": -73.5653,
+      "course": 32,
+      "direction": "Northeast",
+      "knots": 258,
+      "mph": 297,
+      "feets": 7300
+    },
+    {
+      "date": 577746000,
+      "lat": 40.6793,
+      "lon": -73.5524,
+      "course": 32,
+      "direction": "Northeast",
+      "knots": 258,
+      "mph": 297,
+      "feets": 7900
+    },
+    {
+      "date": 577773000,
+      "lat": 40.7057,
+      "lon": -73.5302,
+      "course": 32,
+      "direction": "Northeast",
+      "knots": 256,
+      "mph": 295,
+      "feets": 8700
+    },
+    {
+      "date": 577788000,
+      "lat": 40.72,
+      "lon": -73.5185,
+      "course": 32,
+      "direction": "Northeast",
+      "knots": 258,
+      "mph": 297,
+      "feets": 9000
+    },
+    {
+      "date": 577803000,
+      "lat": 40.7361,
+      "lon": -73.5055,
+      "course": 29,
+      "direction": "Northeast",
+      "knots": 253,
+      "mph": 291,
+      "feets": 9400
+    },
+    {
+      "date": 577839000,
+      "lat": 40.776,
+      "lon": -73.4808,
+      "course": 24,
+      "direction": "Northeast",
+      "knots": 278,
+      "mph": 320,
+      "feets": 10500
+    },
+    {
+      "date": 577869000,
+      "lat": 40.813,
+      "lon": -73.4597,
+      "course": 23,
+      "direction": "Northeast",
+      "knots": 315,
+      "mph": 362,
+      "feets": 11000
+    },
+    {
+      "date": 577899000,
+      "lat": 40.8565,
+      "lon": -73.4351,
+      "course": 23,
+      "direction": "Northeast",
+      "knots": 343,
+      "mph": 395,
+      "feets": 11800
+    },
+    {
+      "date": 577929000,
+      "lat": 40.8992,
+      "lon": -73.411,
+      "course": 22,
+      "direction": "Northeast",
+      "knots": 350,
+      "mph": 403,
+      "feets": 13000
+    },
+    {
+      "date": 577950000,
+      "lat": 40.9303,
+      "lon": -73.3941,
+      "course": 23,
+      "direction": "Northeast",
+      "knots": 358,
+      "mph": 412,
+      "feets": 14000
+    },
+    {
+      "date": 578010000,
+      "lat": 41.0255,
+      "lon": -73.34,
+      "course": 23,
+      "direction": "Northeast",
+      "knots": 368,
+      "mph": 423,
+      "feets": 16500
+    },
+    {
+      "date": 578070000,
+      "lat": 41.1187,
+      "lon": -73.2877,
+      "course": 23,
+      "direction": "Northeast",
+      "knots": 377,
+      "mph": 434,
+      "feets": 18800
+    },
+    {
+      "date": 578104000,
+      "lat": 41.1748,
+      "lon": -73.2468,
+      "course": 36,
+      "direction": "Northeast",
+      "knots": 396,
+      "mph": 456,
+      "feets": 20000
+    },
+    {
+      "date": 578124000,
+      "lat": 41.1966,
+      "lon": -73.2213,
+      "course": 45,
+      "direction": "Northeast",
+      "knots": 407,
+      "mph": 468,
+      "feets": 20400
+    },
+    {
+      "date": 578186000,
+      "lat": 41.2776,
+      "lon": -73.1009,
+      "course": 48,
+      "direction": "Northeast",
+      "knots": 423,
+      "mph": 487,
+      "feets": 22300
+    },
+    {
+      "date": 578248000,
+      "lat": 41.364,
+      "lon": -72.9715,
+      "course": 48,
+      "direction": "Northeast",
+      "knots": 437,
+      "mph": 503,
+      "feets": 24100
+    },
+    {
+      "date": 578304000,
+      "lat": 41.4109,
+      "lon": -72.9,
+      "course": 356,
+      "direction": "North",
+      "knots": 290,
+      "mph": 334,
+      "feets": 25600
+    },
+    {
+      "date": 578369000,
+      "lat": 41.5254,
+      "lon": -72.7246,
+      "course": 48,
+      "direction": "Northeast",
+      "knots": 455,
+      "mph": 524,
+      "feets": 27200
+    },
+    {
+      "date": 578411000,
+      "lat": 41.5874,
+      "lon": -72.6308,
+      "course": 48,
+      "direction": "Northeast",
+      "knots": 460,
+      "mph": 529,
+      "feets": 28100
+    },
+    {
+      "date": 578436000,
+      "lat": 41.6119,
+      "lon": -72.592,
+      "course": 52,
+      "direction": "Northeast",
+      "knots": 422,
+      "mph": 486,
+      "feets": 28500
+    },
+    {
+      "date": 578469000,
+      "lat": 41.6555,
+      "lon": -72.5158,
+      "course": 57,
+      "direction": "Northeast",
+      "knots": 469,
+      "mph": 540,
+      "feets": 29500
+    },
+    {
+      "date": 578499000,
+      "lat": 41.6955,
+      "lon": -72.4296,
+      "course": 58,
+      "direction": "Northeast",
+      "knots": 466,
+      "mph": 536,
+      "feets": 30500
+    },
+    {
+      "date": 578531000,
+      "lat": 41.7275,
+      "lon": -72.3583,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 463,
+      "mph": 533,
+      "feets": 31400
+    },
+    {
+      "date": 578561000,
+      "lat": 41.7599,
+      "lon": -72.2843,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 462,
+      "mph": 532,
+      "feets": 31900
+    },
+    {
+      "date": 578594000,
+      "lat": 41.7911,
+      "lon": -72.2157,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 457,
+      "mph": 526,
+      "feets": 32400
+    },
+    {
+      "date": 578628000,
+      "lat": 41.8342,
+      "lon": -72.1187,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 454,
+      "mph": 522,
+      "feets": 33000
+    },
+    {
+      "date": 578658000,
+      "lat": 41.8656,
+      "lon": -72.0487,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 453,
+      "mph": 521,
+      "feets": 33000
+    },
+    {
+      "date": 578688000,
+      "lat": 41.877,
+      "lon": -72.0221,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 452,
+      "mph": 520,
+      "feets": 33000
+    },
+    {
+      "date": 578719000,
+      "lat": 41.9049,
+      "lon": -71.9596,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": 453,
+      "mph": 521,
+      "feets": 33000
+    },
+    {
+      "date": 578749000,
+      "lat": 41.9581,
+      "lon": -71.8326,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": 454,
+      "mph": 522,
+      "feets": 33000
+    },
+    {
+      "date": 578779000,
+      "lat": 41.9688,
+      "lon": -71.805,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 454,
+      "mph": 522,
+      "feets": 33000
+    },
+    {
+      "date": 578841000,
+      "lat": 42.0481,
+      "lon": -71.5881,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 454,
+      "mph": 522,
+      "feets": 33000
+    },
+    {
+      "date": 578854000,
+      "lat": 42.0363,
+      "lon": -71.6198,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 456,
+      "mph": 525,
+      "feets": 33200
+    },
+    {
+      "date": 578919000,
+      "lat": 42.1206,
+      "lon": -71.3829,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 451,
+      "mph": 519,
+      "feets": 33800
+    },
+    {
+      "date": 578980000,
+      "lat": 42.1693,
+      "lon": -71.244,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 446,
+      "mph": 513,
+      "feets": 34500
+    },
+    {
+      "date": 579035000,
+      "lat": 42.2207,
+      "lon": -71.0987,
+      "course": 66,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 579072000,
+      "lat": 42.258,
+      "lon": -70.9949,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 449,
+      "mph": 517,
+      "feets": 35000
+    },
+    {
+      "date": 579103000,
+      "lat": 42.2743,
+      "lon": -70.9469,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 450,
+      "mph": 518,
+      "feets": 35000
+    },
+    {
+      "date": 579164000,
+      "lat": 42.3349,
+      "lon": -70.7745,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 446,
+      "mph": 513,
+      "feets": 35000
+    },
+    {
+      "date": 579199000,
+      "lat": 42.3628,
+      "lon": -70.6937,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 445,
+      "mph": 512,
+      "feets": 35000
+    },
+    {
+      "date": 579229000,
+      "lat": 42.3958,
+      "lon": -70.6008,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 443,
+      "mph": 510,
+      "feets": 35000
+    },
+    {
+      "date": 579259000,
+      "lat": 42.4219,
+      "lon": -70.5256,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579289000,
+      "lat": 42.446,
+      "lon": -70.4553,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579319000,
+      "lat": 42.47,
+      "lon": -70.3852,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 441,
+      "mph": 507,
+      "feets": 35000
+    },
+    {
+      "date": 579348000,
+      "lat": 42.482,
+      "lon": -70.3502,
+      "course": 245,
+      "direction": "Southwest",
+      "knots": 307,
+      "mph": 353,
+      "feets": 35000
+    },
+    {
+      "date": 579412000,
+      "lat": 42.5533,
+      "lon": -70.143,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 438,
+      "mph": 504,
+      "feets": 35000
+    },
+    {
+      "date": 579478000,
+      "lat": 42.5908,
+      "lon": -70.0333,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 438,
+      "mph": 504,
+      "feets": 35000
+    },
+    {
+      "date": 579529000,
+      "lat": 42.6321,
+      "lon": -69.9107,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 440,
+      "mph": 506,
+      "feets": 35000
+    },
+    {
+      "date": 579559000,
+      "lat": 42.6638,
+      "lon": -69.8152,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 441,
+      "mph": 507,
+      "feets": 35000
+    },
+    {
+      "date": 579589000,
+      "lat": 42.6954,
+      "lon": -69.722,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 440,
+      "mph": 506,
+      "feets": 35000
+    },
+    {
+      "date": 579622000,
+      "lat": 42.7313,
+      "lon": -69.6159,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579660000,
+      "lat": 42.7638,
+      "lon": -69.5196,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 444,
+      "mph": 511,
+      "feets": 35000
+    },
+    {
+      "date": 579690000,
+      "lat": 42.7889,
+      "lon": -69.4432,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 444,
+      "mph": 511,
+      "feets": 35000
+    },
+    {
+      "date": 579720000,
+      "lat": 42.8151,
+      "lon": -69.3642,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 444,
+      "mph": 511,
+      "feets": 35000
+    },
+    {
+      "date": 579751000,
+      "lat": 42.8285,
+      "lon": -69.3236,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 444,
+      "mph": 511,
+      "feets": 35000
+    },
+    {
+      "date": 579781000,
+      "lat": 42.8652,
+      "lon": -69.2116,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 443,
+      "mph": 510,
+      "feets": 35000
+    },
+    {
+      "date": 579814000,
+      "lat": 42.8716,
+      "lon": -69.1936,
+      "course": 249,
+      "direction": "West",
+      "knots": 385,
+      "mph": 443,
+      "feets": 35000
+    },
+    {
+      "date": 579862000,
+      "lat": 42.9287,
+      "lon": -69.0206,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579922000,
+      "lat": 42.9666,
+      "lon": -68.9036,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579953000,
+      "lat": 43.0084,
+      "lon": -68.7763,
+      "course": 66,
+      "direction": "East",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 579987000,
+      "lat": 43.0374,
+      "lon": -68.6843,
+      "course": 66,
+      "direction": "East",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 580017000,
+      "lat": 43.0616,
+      "lon": -68.61,
+      "course": 66,
+      "direction": "East",
+      "knots": 442,
+      "mph": 509,
+      "feets": 35000
+    },
+    {
+      "date": 580048000,
+      "lat": 43.0872,
+      "lon": -68.531,
+      "course": 66,
+      "direction": "East",
+      "knots": 441,
+      "mph": 507,
+      "feets": 35000
+    },
+    {
+      "date": 580108000,
+      "lat": 43.1363,
+      "lon": -68.3777,
+      "course": 66,
+      "direction": "East",
+      "knots": 440,
+      "mph": 506,
+      "feets": 35000
+    },
+    {
+      "date": 580169000,
+      "lat": 43.1856,
+      "lon": -68.2225,
+      "course": 66,
+      "direction": "East",
+      "knots": 438,
+      "mph": 504,
+      "feets": 35000
+    },
+    {
+      "date": 580199000,
+      "lat": 43.2097,
+      "lon": -68.1461,
+      "course": 66,
+      "direction": "East",
+      "knots": 437,
+      "mph": 503,
+      "feets": 35000
+    },
+    {
+      "date": 580229000,
+      "lat": 43.2345,
+      "lon": -68.0698,
+      "course": 66,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 580259000,
+      "lat": 43.2586,
+      "lon": -67.9939,
+      "course": 66,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 580289000,
+      "lat": 43.283,
+      "lon": -67.915,
+      "course": 66,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 580320000,
+      "lat": 43.307,
+      "lon": -67.8388,
+      "course": 66,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 580351000,
+      "lat": 43.3317,
+      "lon": -67.7601,
+      "course": 66,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 580381000,
+      "lat": 43.3547,
+      "lon": -67.6864,
+      "course": 67,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 580411000,
+      "lat": 43.3795,
+      "lon": -67.6053,
+      "course": 66,
+      "direction": "East",
+      "knots": 434,
+      "mph": 499,
+      "feets": 35000
+    },
+    {
+      "date": 580441000,
+      "lat": 43.4033,
+      "lon": -67.529,
+      "course": 67,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 580471000,
+      "lat": 43.4262,
+      "lon": -67.4552,
+      "course": 67,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 580501000,
+      "lat": 43.4501,
+      "lon": -67.3762,
+      "course": 67,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 580531000,
+      "lat": 43.4727,
+      "lon": -67.3047,
+      "course": 67,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 580561000,
+      "lat": 43.4975,
+      "lon": -67.2229,
+      "course": 67,
+      "direction": "East",
+      "knots": 437,
+      "mph": 503,
+      "feets": 35000
+    },
+    {
+      "date": 580592000,
+      "lat": 43.5211,
+      "lon": -67.1459,
+      "course": 67,
+      "direction": "East",
+      "knots": 437,
+      "mph": 503,
+      "feets": 35000
+    },
+    {
+      "date": 580622000,
+      "lat": 43.5444,
+      "lon": -67.0691,
+      "course": 67,
+      "direction": "East",
+      "knots": 437,
+      "mph": 503,
+      "feets": 35000
+    },
+    {
+      "date": 580661000,
+      "lat": 43.5761,
+      "lon": -66.9699,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 434,
+      "mph": 499,
+      "feets": 35000
+    },
+    {
+      "date": 580701000,
+      "lat": 43.6108,
+      "lon": -66.8703,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 432,
+      "mph": 497,
+      "feets": 35000
+    },
+    {
+      "date": 580735000,
+      "lat": 43.6407,
+      "lon": -66.7835,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 430,
+      "mph": 495,
+      "feets": 35000
+    },
+    {
+      "date": 580765000,
+      "lat": 43.6661,
+      "lon": -66.7119,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 429,
+      "mph": 494,
+      "feets": 35000
+    },
+    {
+      "date": 580795000,
+      "lat": 43.6918,
+      "lon": -66.6378,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 428,
+      "mph": 493,
+      "feets": 35000
+    },
+    {
+      "date": 580825000,
+      "lat": 43.7176,
+      "lon": -66.5614,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 427,
+      "mph": 491,
+      "feets": 35000
+    },
+    {
+      "date": 580855000,
+      "lat": 43.743,
+      "lon": -66.4876,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 426,
+      "mph": 490,
+      "feets": 35000
+    },
+    {
+      "date": 580885000,
+      "lat": 43.768,
+      "lon": -66.4141,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 424,
+      "mph": 488,
+      "feets": 35000
+    },
+    {
+      "date": 580915000,
+      "lat": 43.7937,
+      "lon": -66.3405,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 423,
+      "mph": 487,
+      "feets": 35000
+    },
+    {
+      "date": 580945000,
+      "lat": 43.8187,
+      "lon": -66.2671,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 423,
+      "mph": 487,
+      "feets": 35000
+    },
+    {
+      "date": 580986000,
+      "lat": 43.8525,
+      "lon": -66.1671,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 420,
+      "mph": 483,
+      "feets": 35000
+    },
+    {
+      "date": 581016000,
+      "lat": 43.877,
+      "lon": -66.0964,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 419,
+      "mph": 482,
+      "feets": 35000
+    },
+    {
+      "date": 581046000,
+      "lat": 43.9021,
+      "lon": -66.0212,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 418,
+      "mph": 481,
+      "feets": 35000
+    },
+    {
+      "date": 581081000,
+      "lat": 43.9303,
+      "lon": -65.9389,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 417,
+      "mph": 480,
+      "feets": 35000
+    },
+    {
+      "date": 581112000,
+      "lat": 43.956,
+      "lon": -65.8617,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 416,
+      "mph": 479,
+      "feets": 35000
+    },
+    {
+      "date": 581149000,
+      "lat": 43.9854,
+      "lon": -65.7723,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 414,
+      "mph": 476,
+      "feets": 35000
+    },
+    {
+      "date": 581197000,
+      "lat": 44.0241,
+      "lon": -65.6586,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 417,
+      "mph": 480,
+      "feets": 35000
+    },
+    {
+      "date": 581227000,
+      "lat": 44.0483,
+      "lon": -65.5856,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 419,
+      "mph": 482,
+      "feets": 35000
+    },
+    {
+      "date": 581257000,
+      "lat": 44.0729,
+      "lon": -65.512,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 419,
+      "mph": 482,
+      "feets": 35000
+    },
+    {
+      "date": 581287000,
+      "lat": 44.0971,
+      "lon": -65.4387,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 421,
+      "mph": 484,
+      "feets": 35000
+    },
+    {
+      "date": 581317000,
+      "lat": 44.1222,
+      "lon": -65.3622,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 420,
+      "mph": 483,
+      "feets": 35000
+    },
+    {
+      "date": 581347000,
+      "lat": 44.1465,
+      "lon": -65.2885,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 418,
+      "mph": 481,
+      "feets": 35000
+    },
+    {
+      "date": 581408000,
+      "lat": 44.1928,
+      "lon": -65.1475,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 402,
+      "mph": 463,
+      "feets": 35000
+    },
+    {
+      "date": 581438000,
+      "lat": 44.2166,
+      "lon": -65.0748,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 399,
+      "mph": 459,
+      "feets": 35000
+    },
+    {
+      "date": 581468000,
+      "lat": 44.2399,
+      "lon": -65.0043,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 404,
+      "mph": 465,
+      "feets": 35000
+    },
+    {
+      "date": 581498000,
+      "lat": 44.2633,
+      "lon": -64.9297,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 412,
+      "mph": 474,
+      "feets": 35000
+    },
+    {
+      "date": 581528000,
+      "lat": 44.2868,
+      "lon": -64.8589,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 416,
+      "mph": 479,
+      "feets": 35000
+    },
+    {
+      "date": 581558000,
+      "lat": 44.3112,
+      "lon": -64.7825,
+      "course": 66,
+      "direction": "East",
+      "knots": 423,
+      "mph": 487,
+      "feets": 35000
+    },
+    {
+      "date": 581588000,
+      "lat": 44.3353,
+      "lon": -64.7073,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 428,
+      "mph": 493,
+      "feets": 35000
+    },
+    {
+      "date": 581618000,
+      "lat": 44.36,
+      "lon": -64.6311,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 432,
+      "mph": 497,
+      "feets": 35000
+    },
+    {
+      "date": 581679000,
+      "lat": 44.4095,
+      "lon": -64.4768,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": 440,
+      "mph": 506,
+      "feets": 35000
+    },
+    {
+      "date": 581709000,
+      "lat": 44.4345,
+      "lon": -64.3962,
+      "course": 66,
+      "direction": "East",
+      "knots": 441,
+      "mph": 507,
+      "feets": 35000
+    },
+    {
+      "date": 581739000,
+      "lat": 44.4591,
+      "lon": -64.3207,
+      "course": 66,
+      "direction": "East",
+      "knots": 438,
+      "mph": 504,
+      "feets": 35000
+    },
+    {
+      "date": 581769000,
+      "lat": 44.4838,
+      "lon": -64.2411,
+      "course": 66,
+      "direction": "East",
+      "knots": 430,
+      "mph": 495,
+      "feets": 35000
+    },
+    {
+      "date": 581799000,
+      "lat": 44.5077,
+      "lon": -64.1653,
+      "course": 66,
+      "direction": "East",
+      "knots": 423,
+      "mph": 487,
+      "feets": 35000
+    },
+    {
+      "date": 581859000,
+      "lat": 44.555,
+      "lon": -64.0159,
+      "course": 66,
+      "direction": "East",
+      "knots": 418,
+      "mph": 481,
+      "feets": 35000
+    },
+    {
+      "date": 581862000,
+      "lat": 44.55,
+      "lon": -64.0,
+      "course": 66,
+      "direction": "East",
+      "knots": 420,
+      "mph": 483,
+      "feets": 35000
+    },
+    {
+      "date": 581920000,
+      "lat": 44.6013,
+      "lon": -63.8675,
+      "course": 66,
+      "direction": "East",
+      "knots": 416,
+      "mph": 479,
+      "feets": 35000
+    },
+    {
+      "date": 581950000,
+      "lat": 44.6244,
+      "lon": -63.7932,
+      "course": 66,
+      "direction": "East",
+      "knots": 417,
+      "mph": 480,
+      "feets": 35000
+    },
+    {
+      "date": 581992000,
+      "lat": 44.6569,
+      "lon": -63.6883,
+      "course": 66,
+      "direction": "East",
+      "knots": 422,
+      "mph": 486,
+      "feets": 35000
+    },
+    {
+      "date": 582022000,
+      "lat": 44.6804,
+      "lon": -63.6123,
+      "course": 66,
+      "direction": "East",
+      "knots": 426,
+      "mph": 490,
+      "feets": 35000
+    },
+    {
+      "date": 582052000,
+      "lat": 44.7044,
+      "lon": -63.5331,
+      "course": 66,
+      "direction": "East",
+      "knots": 428,
+      "mph": 493,
+      "feets": 35000
+    },
+    {
+      "date": 582098000,
+      "lat": 44.7395,
+      "lon": -63.4201,
+      "course": 66,
+      "direction": "East",
+      "knots": 433,
+      "mph": 498,
+      "feets": 35000
+    },
+    {
+      "date": 582131000,
+      "lat": 44.7662,
+      "lon": -63.3317,
+      "course": 66,
+      "direction": "East",
+      "knots": 435,
+      "mph": 501,
+      "feets": 35000
+    },
+    {
+      "date": 582161000,
+      "lat": 44.79,
+      "lon": -63.2535,
+      "course": 66,
+      "direction": "East",
+      "knots": 436,
+      "mph": 502,
+      "feets": 35000
+    },
+    {
+      "date": 582191000,
+      "lat": 44.8141,
+      "lon": -63.175,
+      "course": 67,
+      "direction": "East",
+      "knots": 437,
+      "mph": 503,
+      "feets": 35000
+    },
+    {
+      "date": 582221000,
+      "lat": 44.838,
+      "lon": -63.0965,
+      "course": 66,
+      "direction": "East",
+      "knots": 440,
+      "mph": 506,
+      "feets": 35000
+    },
+    {
+      "date": 582251000,
+      "lat": 44.8619,
+      "lon": -63.0174,
+      "course": 67,
+      "direction": "East",
+      "knots": 441,
+      "mph": 507,
+      "feets": 35000
+    },
+    {
+      "date": 582287000,
+      "lat": 44.8903,
+      "lon": -62.9217,
+      "course": 67,
+      "direction": "East",
+      "knots": 445,
+      "mph": 512,
+      "feets": 35000
+    },
+    {
+      "date": 582323000,
+      "lat": 44.9195,
+      "lon": -62.8254,
+      "course": 67,
+      "direction": "East",
+      "knots": 446,
+      "mph": 513,
+      "feets": 35000
+    },
+    {
+      "date": 582353000,
+      "lat": 44.9436,
+      "lon": -62.7423,
+      "course": 67,
+      "direction": "East",
+      "knots": 445,
+      "mph": 512,
+      "feets": 35000
+    },
+    {
+      "date": 582383000,
+      "lat": 44.9675,
+      "lon": -62.6621,
+      "course": 67,
+      "direction": "East",
+      "knots": 446,
+      "mph": 513,
+      "feets": 35000
+    },
+    {
+      "date": 582413000,
+      "lat": 44.9914,
+      "lon": -62.5814,
+      "course": 67,
+      "direction": "East",
+      "knots": 446,
+      "mph": 513,
+      "feets": 35000
+    },
+    {
+      "date": 582443000,
+      "lat": 45.0152,
+      "lon": -62.5008,
+      "course": 67,
+      "direction": "East",
+      "knots": 447,
+      "mph": 514,
+      "feets": 35000
+    },
+    {
+      "date": 582473000,
+      "lat": 45.0393,
+      "lon": -62.4196,
+      "course": 67,
+      "direction": "East",
+      "knots": 448,
+      "mph": 516,
+      "feets": 35000
+    },
+    {
+      "date": 582503000,
+      "lat": 45.0633,
+      "lon": -62.3383,
+      "course": 67,
+      "direction": "East",
+      "knots": 449,
+      "mph": 517,
+      "feets": 35000
+    },
+    {
+      "date": 582533000,
+      "lat": 45.0872,
+      "lon": -62.2567,
+      "course": 67,
+      "direction": "East",
+      "knots": 451,
+      "mph": 519,
+      "feets": 35000
+    },
+    {
+      "date": 582564000,
+      "lat": 45.1112,
+      "lon": -62.1748,
+      "course": 67,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582594000,
+      "lat": 45.1349,
+      "lon": -62.0927,
+      "course": 67,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582624000,
+      "lat": 45.159,
+      "lon": -62.0106,
+      "course": 67,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582654000,
+      "lat": 45.1827,
+      "lon": -61.9281,
+      "course": 68,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582684000,
+      "lat": 45.2064,
+      "lon": -61.846,
+      "course": 67,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582714000,
+      "lat": 45.2303,
+      "lon": -61.7608,
+      "course": 68,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582744000,
+      "lat": 45.2539,
+      "lon": -61.6785,
+      "course": 67,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582774000,
+      "lat": 45.2773,
+      "lon": -61.5986,
+      "course": 68,
+      "direction": "East",
+      "knots": 452,
+      "mph": 520,
+      "feets": 35000
+    },
+    {
+      "date": 582804000,
+      "lat": 45.3011,
+      "lon": -61.5132,
+      "course": 68,
+      "direction": "East",
+      "knots": 455,
+      "mph": 524,
+      "feets": 35000
+    },
+    {
+      "date": 582834000,
+      "lat": 45.3243,
+      "lon": -61.4297,
+      "course": 68,
+      "direction": "East",
+      "knots": 455,
+      "mph": 524,
+      "feets": 35000
+    },
+    {
+      "date": 582864000,
+      "lat": 45.3477,
+      "lon": -61.3491,
+      "course": 68,
+      "direction": "East",
+      "knots": 456,
+      "mph": 525,
+      "feets": 35000
+    },
+    {
+      "date": 582898000,
+      "lat": 45.3741,
+      "lon": -61.2548,
+      "course": 68,
+      "direction": "East",
+      "knots": 456,
+      "mph": 525,
+      "feets": 35000
+    },
+    {
+      "date": 582970000,
+      "lat": 45.4289,
+      "lon": -61.0574,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583000000,
+      "lat": 45.4533,
+      "lon": -60.9711,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583031000,
+      "lat": 45.4776,
+      "lon": -60.882,
+      "course": 68,
+      "direction": "East",
+      "knots": 455,
+      "mph": 524,
+      "feets": 35000
+    },
+    {
+      "date": 583062000,
+      "lat": 45.5005,
+      "lon": -60.7987,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583092000,
+      "lat": 45.5238,
+      "lon": -60.7149,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583122000,
+      "lat": 45.5468,
+      "lon": -60.6314,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583152000,
+      "lat": 45.57,
+      "lon": -60.545,
+      "course": 68,
+      "direction": "East",
+      "knots": 453,
+      "mph": 521,
+      "feets": 35000
+    },
+    {
+      "date": 583182000,
+      "lat": 45.5918,
+      "lon": -60.4669,
+      "course": 68,
+      "direction": "East",
+      "knots": 454,
+      "mph": 522,
+      "feets": 35000
+    },
+    {
+      "date": 583215000,
+      "lat": 45.6151,
+      "lon": -60.3675,
+      "course": 74,
+      "direction": "East",
+      "knots": 456,
+      "mph": 525,
+      "feets": 35000
+    },
+    {
+      "date": 583245000,
+      "lat": 45.6282,
+      "lon": -60.2915,
+      "course": 77,
+      "direction": "East",
+      "knots": 457,
+      "mph": 526,
+      "feets": 35000
+    },
+    {
+      "date": 583305000,
+      "lat": 45.6552,
+      "lon": -60.1113,
+      "course": 78,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583335000,
+      "lat": 45.6687,
+      "lon": -60.0164,
+      "course": 78,
+      "direction": "East",
+      "knots": 457,
+      "mph": 526,
+      "feets": 35000
+    },
+    {
+      "date": 583370000,
+      "lat": 45.6823,
+      "lon": -59.9185,
+      "course": 78,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583401000,
+      "lat": 45.6957,
+      "lon": -59.8206,
+      "course": 78,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583431000,
+      "lat": 45.7083,
+      "lon": -59.7287,
+      "course": 78,
+      "direction": "East",
+      "knots": 457,
+      "mph": 526,
+      "feets": 35000
+    },
+    {
+      "date": 583461000,
+      "lat": 45.7202,
+      "lon": -59.6427,
+      "course": 78,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583491000,
+      "lat": 45.7327,
+      "lon": -59.5505,
+      "course": 78,
+      "direction": "East",
+      "knots": 457,
+      "mph": 526,
+      "feets": 35000
+    },
+    {
+      "date": 583521000,
+      "lat": 45.7443,
+      "lon": -59.4675,
+      "course": 79,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583551000,
+      "lat": 45.757,
+      "lon": -59.3722,
+      "course": 79,
+      "direction": "East",
+      "knots": 458,
+      "mph": 527,
+      "feets": 35000
+    },
+    {
+      "date": 583581000,
+      "lat": 45.7689,
+      "lon": -59.2831,
+      "course": 79,
+      "direction": "East",
+      "knots": 459,
+      "mph": 528,
+      "feets": 35000
+    },
+    {
+      "date": 583630000,
+      "lat": 45.7871,
+      "lon": -59.1456,
+      "course": 79,
+      "direction": "East",
+      "knots": 459,
+      "mph": 528,
+      "feets": 35000
+    },
+    {
+      "date": 583660000,
+      "lat": 45.799,
+      "lon": -59.0558,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583690000,
+      "lat": 45.8114,
+      "lon": -58.9631,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583720000,
+      "lat": 45.8226,
+      "lon": -58.8762,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583755000,
+      "lat": 45.8364,
+      "lon": -58.7712,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583786000,
+      "lat": 45.8471,
+      "lon": -58.6873,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583816000,
+      "lat": 45.8604,
+      "lon": -58.5827,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583877000,
+      "lat": 45.8835,
+      "lon": -58.3997,
+      "course": 79,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583907000,
+      "lat": 45.8908,
+      "lon": -58.3428,
+      "course": 80,
+      "direction": "East",
+      "knots": 460,
+      "mph": 529,
+      "feets": 35000
+    },
+    {
+      "date": 583937000,
+      "lat": 45.906,
+      "lon": -58.2193,
+      "course": 79,
+      "direction": "East",
+      "knots": 461,
+      "mph": 531,
+      "feets": 35000
+    },
+    {
+      "date": 583998000,
+      "lat": 45.9276,
+      "lon": -58.0446,
+      "course": 79,
+      "direction": "East",
+      "knots": 461,
+      "mph": 531,
+      "feets": 35000
+    },
+    {
+      "date": 584055000,
+      "lat": 45.9483,
+      "lon": -57.8758,
+      "course": 80,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584089000,
+      "lat": 45.9619,
+      "lon": -57.7638,
+      "course": 80,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584128000,
+      "lat": 45.9755,
+      "lon": -57.6486,
+      "course": 80,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584158000,
+      "lat": 45.9866,
+      "lon": -57.555,
+      "course": 80,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584188000,
+      "lat": 45.9978,
+      "lon": -57.4578,
+      "course": 80,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584218000,
+      "lat": 46.0084,
+      "lon": -57.3667,
+      "course": 80,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584257000,
+      "lat": 46.0221,
+      "lon": -57.2581,
+      "course": 78,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584297000,
+      "lat": 46.0425,
+      "lon": -57.1292,
+      "course": 77,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584338000,
+      "lat": 46.0626,
+      "lon": -57.0066,
+      "course": 76,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584369000,
+      "lat": 46.0779,
+      "lon": -56.9171,
+      "course": 76,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584416000,
+      "lat": 46.1015,
+      "lon": -56.7768,
+      "course": 77,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584458000,
+      "lat": 46.1197,
+      "lon": -56.6659,
+      "course": 77,
+      "direction": "East",
+      "knots": 464,
+      "mph": 534,
+      "feets": 35000
+    },
+    {
+      "date": 584491000,
+      "lat": 46.1386,
+      "lon": -56.5519,
+      "course": 77,
+      "direction": "East",
+      "knots": 462,
+      "mph": 532,
+      "feets": 35000
+    },
+    {
+      "date": 584522000,
+      "lat": 46.1531,
+      "lon": -56.4618,
+      "course": 76,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584552000,
+      "lat": 46.1683,
+      "lon": -56.3688,
+      "course": 77,
+      "direction": "East",
+      "knots": 463,
+      "mph": 533,
+      "feets": 35000
+    },
+    {
+      "date": 584583000,
+      "lat": 46.1828,
+      "lon": -56.2783,
+      "course": 77,
+      "direction": "East",
+      "knots": 464,
+      "mph": 534,
+      "feets": 35000
+    },
+    {
+      "date": 584613000,
+      "lat": 46.1969,
+      "lon": -56.1879,
+      "course": 77,
+      "direction": "East",
+      "knots": 464,
+      "mph": 534,
+      "feets": 35000
+    },
+    {
+      "date": 584644000,
+      "lat": 46.2126,
+      "lon": -56.0914,
+      "course": 77,
+      "direction": "East",
+      "knots": 465,
+      "mph": 535,
+      "feets": 35000
+    },
+    {
+      "date": 584674000,
+      "lat": 46.2264,
+      "lon": -56.0034,
+      "course": 77,
+      "direction": "East",
+      "knots": 465,
+      "mph": 535,
+      "feets": 35000
+    },
+    {
+      "date": 584705000,
+      "lat": 46.2415,
+      "lon": -55.9066,
+      "course": 77,
+      "direction": "East",
+      "knots": 466,
+      "mph": 536,
+      "feets": 35000
+    },
+    {
+      "date": 584735000,
+      "lat": 46.2559,
+      "lon": -55.8154,
+      "course": 77,
+      "direction": "East",
+      "knots": 466,
+      "mph": 536,
+      "feets": 35000
+    },
+    {
+      "date": 584765000,
+      "lat": 46.27,
+      "lon": -55.7245,
+      "course": 77,
+      "direction": "East",
+      "knots": 467,
+      "mph": 537,
+      "feets": 35000
+    },
+    {
+      "date": 584795000,
+      "lat": 46.2843,
+      "lon": -55.63,
+      "course": 77,
+      "direction": "East",
+      "knots": 467,
+      "mph": 537,
+      "feets": 35000
+    },
+    {
+      "date": 584826000,
+      "lat": 46.2986,
+      "lon": -55.5357,
+      "course": 77,
+      "direction": "East",
+      "knots": 468,
+      "mph": 539,
+      "feets": 35000
+    },
+    {
+      "date": 584857000,
+      "lat": 46.3129,
+      "lon": -55.4443,
+      "course": 77,
+      "direction": "East",
+      "knots": 467,
+      "mph": 537,
+      "feets": 35000
+    },
+    {
+      "date": 584887000,
+      "lat": 46.3271,
+      "lon": -55.3497,
+      "course": 77,
+      "direction": "East",
+      "knots": 467,
+      "mph": 537,
+      "feets": 35000
+    },
+    {
+      "date": 584918000,
+      "lat": 46.3409,
+      "lon": -55.2582,
+      "course": 77,
+      "direction": "East",
+      "knots": 468,
+      "mph": 539,
+      "feets": 35000
+    },
+    {
+      "date": 584948000,
+      "lat": 46.3546,
+      "lon": -55.1663,
+      "course": 77,
+      "direction": "East",
+      "knots": 468,
+      "mph": 539,
+      "feets": 35000
+    },
+    {
+      "date": 584978000,
+      "lat": 46.3685,
+      "lon": -55.0743,
+      "course": 78,
+      "direction": "East",
+      "knots": 470,
+      "mph": 541,
+      "feets": 35000
+    },
+    {
+      "date": 585009000,
+      "lat": 46.3824,
+      "lon": -54.9792,
+      "course": 78,
+      "direction": "East",
+      "knots": 469,
+      "mph": 540,
+      "feets": 35000
+    },
+    {
+      "date": 585079000,
+      "lat": 46.4,
+      "lon": -54.7167,
+      "course": 78,
+      "direction": "East",
+      "knots": 470,
+      "mph": 541,
+      "feets": 35000
+    },
+    {
+      "date": 585098000,
+      "lat": 46.4228,
+      "lon": -54.7022,
+      "course": 78,
+      "direction": "East",
+      "knots": 471,
+      "mph": 542,
+      "feets": 35000
+    },
+    {
+      "date": 585130000,
+      "lat": 46.4369,
+      "lon": -54.6067,
+      "course": 78,
+      "direction": "East",
+      "knots": 471,
+      "mph": 542,
+      "feets": 35000
+    },
+    {
+      "date": 585191000,
+      "lat": 46.4638,
+      "lon": -54.4178,
+      "course": 78,
+      "direction": "East",
+      "knots": 472,
+      "mph": 543,
+      "feets": 35000
+    },
+    {
+      "date": 585221000,
+      "lat": 46.4769,
+      "lon": -54.3248,
+      "course": 78,
+      "direction": "East",
+      "knots": 473,
+      "mph": 544,
+      "feets": 35000
+    },
+    {
+      "date": 585251000,
+      "lat": 46.4903,
+      "lon": -54.2286,
+      "course": 78,
+      "direction": "East",
+      "knots": 473,
+      "mph": 544,
+      "feets": 35000
+    },
+    {
+      "date": 585281000,
+      "lat": 46.5034,
+      "lon": -54.1353,
+      "course": 78,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 35000
+    },
+    {
+      "date": 585312000,
+      "lat": 46.5167,
+      "lon": -54.0387,
+      "course": 78,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 35000
+    },
+    {
+      "date": 585342000,
+      "lat": 46.5298,
+      "lon": -53.945,
+      "course": 78,
+      "direction": "East",
+      "knots": 475,
+      "mph": 547,
+      "feets": 35000
+    },
+    {
+      "date": 585373000,
+      "lat": 46.543,
+      "lon": -53.8483,
+      "course": 78,
+      "direction": "East",
+      "knots": 476,
+      "mph": 548,
+      "feets": 35000
+    },
+    {
+      "date": 585403000,
+      "lat": 46.5557,
+      "lon": -53.7575,
+      "course": 78,
+      "direction": "East",
+      "knots": 475,
+      "mph": 547,
+      "feets": 35000
+    },
+    {
+      "date": 585434000,
+      "lat": 46.569,
+      "lon": -53.6572,
+      "course": 78,
+      "direction": "East",
+      "knots": 475,
+      "mph": 547,
+      "feets": 35000
+    },
+    {
+      "date": 585464000,
+      "lat": 46.5818,
+      "lon": -53.5632,
+      "course": 78,
+      "direction": "East",
+      "knots": 475,
+      "mph": 547,
+      "feets": 35000
+    },
+    {
+      "date": 585495000,
+      "lat": 46.5942,
+      "lon": -53.4691,
+      "course": 79,
+      "direction": "East",
+      "knots": 476,
+      "mph": 548,
+      "feets": 35000
+    },
+    {
+      "date": 585525000,
+      "lat": 46.607,
+      "lon": -53.3747,
+      "course": 78,
+      "direction": "East",
+      "knots": 476,
+      "mph": 548,
+      "feets": 35000
+    },
+    {
+      "date": 585555000,
+      "lat": 46.6189,
+      "lon": -53.2836,
+      "course": 79,
+      "direction": "East",
+      "knots": 477,
+      "mph": 549,
+      "feets": 35000
+    },
+    {
+      "date": 585585000,
+      "lat": 46.6314,
+      "lon": -53.1891,
+      "course": 79,
+      "direction": "East",
+      "knots": 477,
+      "mph": 549,
+      "feets": 35000
+    },
+    {
+      "date": 585615000,
+      "lat": 46.6438,
+      "lon": -53.0945,
+      "course": 79,
+      "direction": "East",
+      "knots": 477,
+      "mph": 549,
+      "feets": 35000
+    },
+    {
+      "date": 585645000,
+      "lat": 46.6564,
+      "lon": -52.9968,
+      "course": 79,
+      "direction": "East",
+      "knots": 478,
+      "mph": 550,
+      "feets": 35000
+    },
+    {
+      "date": 585675000,
+      "lat": 46.6682,
+      "lon": -52.9019,
+      "course": 79,
+      "direction": "East",
+      "knots": 478,
+      "mph": 550,
+      "feets": 35000
+    },
+    {
+      "date": 585705000,
+      "lat": 46.6806,
+      "lon": -52.8073,
+      "course": 79,
+      "direction": "East",
+      "knots": 477,
+      "mph": 549,
+      "feets": 35000
+    },
+    {
+      "date": 585735000,
+      "lat": 46.6923,
+      "lon": -52.7122,
+      "course": 79,
+      "direction": "East",
+      "knots": 478,
+      "mph": 550,
+      "feets": 35000
+    },
+    {
+      "date": 585765000,
+      "lat": 46.7047,
+      "lon": -52.617,
+      "course": 79,
+      "direction": "East",
+      "knots": 479,
+      "mph": 551,
+      "feets": 35000
+    },
+    {
+      "date": 585796000,
+      "lat": 46.7168,
+      "lon": -52.5187,
+      "course": 79,
+      "direction": "East",
+      "knots": 480,
+      "mph": 552,
+      "feets": 35000
+    },
+    {
+      "date": 585827000,
+      "lat": 46.7289,
+      "lon": -52.4202,
+      "course": 80,
+      "direction": "East",
+      "knots": 480,
+      "mph": 552,
+      "feets": 35000
+    },
+    {
+      "date": 585858000,
+      "lat": 46.7411,
+      "lon": -52.3184,
+      "course": 79,
+      "direction": "East",
+      "knots": 479,
+      "mph": 551,
+      "feets": 35000
+    },
+    {
+      "date": 585888000,
+      "lat": 46.7528,
+      "lon": -52.2261,
+      "course": 79,
+      "direction": "East",
+      "knots": 479,
+      "mph": 551,
+      "feets": 35000
+    },
+    {
+      "date": 585918000,
+      "lat": 46.7645,
+      "lon": -52.1275,
+      "course": 80,
+      "direction": "East",
+      "knots": 480,
+      "mph": 552,
+      "feets": 35000
+    },
+    {
+      "date": 585949000,
+      "lat": 46.7764,
+      "lon": -52.0289,
+      "course": 80,
+      "direction": "East",
+      "knots": 481,
+      "mph": 554,
+      "feets": 35000
+    },
+    {
+      "date": 585980000,
+      "lat": 46.7883,
+      "lon": -51.93,
+      "course": 80,
+      "direction": "East",
+      "knots": 481,
+      "mph": 554,
+      "feets": 35000
+    },
+    {
+      "date": 586011000,
+      "lat": 46.7993,
+      "lon": -51.8373,
+      "course": 80,
+      "direction": "East",
+      "knots": 481,
+      "mph": 554,
+      "feets": 35000
+    },
+    {
+      "date": 586041000,
+      "lat": 46.8105,
+      "lon": -51.7411,
+      "course": 80,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586071000,
+      "lat": 46.8223,
+      "lon": -51.6417,
+      "course": 80,
+      "direction": "East",
+      "knots": 483,
+      "mph": 556,
+      "feets": 35000
+    },
+    {
+      "date": 586102000,
+      "lat": 46.8335,
+      "lon": -51.5421,
+      "course": 80,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586132000,
+      "lat": 46.8447,
+      "lon": -51.446,
+      "course": 80,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586162000,
+      "lat": 46.8556,
+      "lon": -51.3498,
+      "course": 80,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586192000,
+      "lat": 46.8666,
+      "lon": -51.2536,
+      "course": 80,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586222000,
+      "lat": 46.8773,
+      "lon": -51.1573,
+      "course": 80,
+      "direction": "East",
+      "knots": 481,
+      "mph": 554,
+      "feets": 35000
+    },
+    {
+      "date": 586252000,
+      "lat": 46.8881,
+      "lon": -51.0581,
+      "course": 81,
+      "direction": "East",
+      "knots": 480,
+      "mph": 552,
+      "feets": 35000
+    },
+    {
+      "date": 586313000,
+      "lat": 46.909,
+      "lon": -50.8694,
+      "course": 80,
+      "direction": "East",
+      "knots": 479,
+      "mph": 551,
+      "feets": 35000
+    },
+    {
+      "date": 586344000,
+      "lat": 46.9201,
+      "lon": -50.7671,
+      "course": 80,
+      "direction": "East",
+      "knots": 478,
+      "mph": 550,
+      "feets": 35000
+    },
+    {
+      "date": 586374000,
+      "lat": 46.9299,
+      "lon": -50.6777,
+      "course": 81,
+      "direction": "East",
+      "knots": 478,
+      "mph": 550,
+      "feets": 35000
+    },
+    {
+      "date": 586405000,
+      "lat": 46.9398,
+      "lon": -50.582,
+      "course": 81,
+      "direction": "East",
+      "knots": 477,
+      "mph": 549,
+      "feets": 35000
+    },
+    {
+      "date": 586435000,
+      "lat": 46.9509,
+      "lon": -50.477,
+      "course": 81,
+      "direction": "East",
+      "knots": 476,
+      "mph": 548,
+      "feets": 35000
+    },
+    {
+      "date": 586465000,
+      "lat": 46.9609,
+      "lon": -50.3816,
+      "course": 81,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 35000
+    },
+    {
+      "date": 586495000,
+      "lat": 46.971,
+      "lon": -50.2834,
+      "course": 81,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 35000
+    },
+    {
+      "date": 586526000,
+      "lat": 46.9811,
+      "lon": -50.1884,
+      "course": 81,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 35000
+    },
+    {
+      "date": 586557000,
+      "lat": 46.99,
+      "lon": -50.0996,
+      "course": 81,
+      "direction": "East",
+      "knots": 473,
+      "mph": 544,
+      "feets": 35000
+    },
+    {
+      "date": 586582000,
+      "lat": 46.9974,
+      "lon": -50.0396,
+      "course": 70,
+      "direction": "East",
+      "knots": 482,
+      "mph": 555,
+      "feets": 35000
+    },
+    {
+      "date": 586603000,
+      "lat": 47.0203,
+      "lon": -49.9476,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 487,
+      "mph": 560,
+      "feets": 35000
+    },
+    {
+      "date": 586639000,
+      "lat": 47.0579,
+      "lon": -49.8417,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": 491,
+      "mph": 565,
+      "feets": 35000
+    },
+    {
+      "date": 586670000,
+      "lat": 47.0791,
+      "lon": -49.7828,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 492,
+      "mph": 566,
+      "feets": 35000
+    },
+    {
+      "date": 586704000,
+      "lat": 47.1276,
+      "lon": -49.6471,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 493,
+      "mph": 567,
+      "feets": 35000
+    },
+    {
+      "date": 586782000,
+      "lat": 47.1833,
+      "lon": -49.35,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 490,
+      "mph": 564,
+      "feets": 35000
+    },
+    {
+      "date": 586819000,
+      "lat": 47.2333,
+      "lon": -49.25,
+      "course": 54,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 586880000,
+      "lat": 47.2833,
+      "lon": -49.0667,
+      "course": 68,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 586940000,
+      "lat": 47.35,
+      "lon": -48.8667,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587000000,
+      "lat": 47.4167,
+      "lon": -48.7,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587060000,
+      "lat": 47.4833,
+      "lon": -48.5167,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587119000,
+      "lat": 47.55,
+      "lon": -48.35,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587180000,
+      "lat": 47.6,
+      "lon": -48.1333,
+      "course": 71,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 35000
+    },
+    {
+      "date": 587240000,
+      "lat": 47.6667,
+      "lon": -47.9667,
+      "course": 59,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587300000,
+      "lat": 47.7333,
+      "lon": -47.7833,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587360000,
+      "lat": 47.8,
+      "lon": -47.5833,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587420000,
+      "lat": 47.85,
+      "lon": -47.4167,
+      "course": 66,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 35000
+    },
+    {
+      "date": 587479000,
+      "lat": 47.9,
+      "lon": -47.2333,
+      "course": 68,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587540000,
+      "lat": 47.9833,
+      "lon": -47.0333,
+      "course": 58,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587600000,
+      "lat": 48.0333,
+      "lon": -46.85,
+      "course": 68,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587660000,
+      "lat": 48.1,
+      "lon": -46.6667,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587720000,
+      "lat": 48.15,
+      "lon": -46.5,
+      "course": 66,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 35000
+    },
+    {
+      "date": 587821000,
+      "lat": 48.2364,
+      "lon": -46.2351,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588242000,
+      "lat": 48.5897,
+      "lon": -45.1211,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588360000,
+      "lat": 48.6868,
+      "lon": -44.8061,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588421000,
+      "lat": 48.7366,
+      "lon": -44.6428,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588541000,
+      "lat": 48.8341,
+      "lon": -44.3206,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588661000,
+      "lat": 48.9306,
+      "lon": -43.9971,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588721000,
+      "lat": 48.9785,
+      "lon": -43.8349,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588781000,
+      "lat": 49.0262,
+      "lon": -43.6724,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588841000,
+      "lat": 49.0736,
+      "lon": -43.5096,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588901000,
+      "lat": 49.1208,
+      "lon": -43.3465,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 588961000,
+      "lat": 49.1678,
+      "lon": -43.183,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589022000,
+      "lat": 49.2153,
+      "lon": -43.0166,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589138000,
+      "lat": 49.305,
+      "lon": -42.6991,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589202000,
+      "lat": 49.3536,
+      "lon": -42.5229,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589322000,
+      "lat": 49.4427,
+      "lon": -42.1912,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589440000,
+      "lat": 49.5294,
+      "lon": -41.8637,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589500000,
+      "lat": 49.5732,
+      "lon": -41.6968,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589560000,
+      "lat": 49.6166,
+      "lon": -41.5296,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589620000,
+      "lat": 49.6599,
+      "lon": -41.3621,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589680000,
+      "lat": 49.7029,
+      "lon": -41.1943,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589741000,
+      "lat": 49.7464,
+      "lon": -41.0234,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589801000,
+      "lat": 49.7889,
+      "lon": -40.855,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589862000,
+      "lat": 49.8319,
+      "lon": -40.6835,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 589981000,
+      "lat": 49.9151,
+      "lon": -40.348,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590099000,
+      "lat": 49.9966,
+      "lon": -40.0142,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590159000,
+      "lat": 50.0528,
+      "lon": -39.855,
+      "course": 60,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590219000,
+      "lat": 50.1102,
+      "lon": -39.6965,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590281000,
+      "lat": 50.1693,
+      "lon": -39.5323,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590341000,
+      "lat": 50.2261,
+      "lon": -39.373,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590401000,
+      "lat": 50.2828,
+      "lon": -39.2133,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590520000,
+      "lat": 50.3946,
+      "lon": -38.8955,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590582000,
+      "lat": 50.4525,
+      "lon": -38.7293,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590700000,
+      "lat": 50.5621,
+      "lon": -38.4119,
+      "course": 61,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590822000,
+      "lat": 50.6745,
+      "lon": -38.0822,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 590942000,
+      "lat": 50.7841,
+      "lon": -37.7563,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591062000,
+      "lat": 50.8928,
+      "lon": -37.4289,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591122000,
+      "lat": 50.9468,
+      "lon": -37.2646,
+      "course": 62,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591242000,
+      "lat": 51.0541,
+      "lon": -36.9349,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591360000,
+      "lat": 51.1587,
+      "lon": -36.6092,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591420000,
+      "lat": 51.2116,
+      "lon": -36.443,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591480000,
+      "lat": 51.2641,
+      "lon": -36.2765,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591540000,
+      "lat": 51.3165,
+      "lon": -36.1096,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591600000,
+      "lat": 51.3686,
+      "lon": -35.9423,
+      "course": 63,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591661000,
+      "lat": 51.4214,
+      "lon": -35.7718,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591780000,
+      "lat": 51.5236,
+      "lon": -35.4381,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591842000,
+      "lat": 51.5765,
+      "lon": -35.2636,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 591962000,
+      "lat": 51.6781,
+      "lon": -34.9248,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592080000,
+      "lat": 51.7771,
+      "lon": -34.5902,
+      "course": 64,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592141000,
+      "lat": 51.8279,
+      "lon": -34.4166,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592202000,
+      "lat": 51.8784,
+      "lon": -34.2426,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592262000,
+      "lat": 51.9278,
+      "lon": -34.0711,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592380000,
+      "lat": 52.0243,
+      "lon": -33.7327,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592440000,
+      "lat": 52.073,
+      "lon": -33.5601,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592500000,
+      "lat": 52.1215,
+      "lon": -33.3871,
+      "course": 65,
+      "direction": "Northeast",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592560000,
+      "lat": 52.1697,
+      "lon": -33.2137,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592620000,
+      "lat": 52.2177,
+      "lon": -33.04,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592680000,
+      "lat": 52.2653,
+      "lon": -32.8659,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592740000,
+      "lat": 52.3127,
+      "lon": -32.6914,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592802000,
+      "lat": 52.3615,
+      "lon": -32.5107,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592918000,
+      "lat": 52.452,
+      "lon": -32.1716,
+      "course": 66,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 592980000,
+      "lat": 52.5,
+      "lon": -31.9898,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593040000,
+      "lat": 52.546,
+      "lon": -31.8135,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593100000,
+      "lat": 52.5919,
+      "lon": -31.6368,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593162000,
+      "lat": 52.639,
+      "lon": -31.4538,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593282000,
+      "lat": 52.7294,
+      "lon": -31.0985,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593400000,
+      "lat": 52.8173,
+      "lon": -30.7477,
+      "course": 67,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593521000,
+      "lat": 52.9063,
+      "lon": -30.3865,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593581000,
+      "lat": 52.9501,
+      "lon": -30.2069,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593642000,
+      "lat": 52.9943,
+      "lon": -30.0239,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593760000,
+      "lat": 53.0812,
+      "lon": -29.6705,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593820000,
+      "lat": 53.1251,
+      "lon": -29.4902,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593880000,
+      "lat": 53.1688,
+      "lon": -29.3097,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 593941000,
+      "lat": 53.2129,
+      "lon": -29.1257,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594002000,
+      "lat": 53.2567,
+      "lon": -28.9413,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594122000,
+      "lat": 53.3442,
+      "lon": -28.5789,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594240000,
+      "lat": 53.4305,
+      "lon": -28.222,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594301000,
+      "lat": 53.4747,
+      "lon": -28.037,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594361000,
+      "lat": 53.5179,
+      "lon": -27.8546,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594421000,
+      "lat": 53.5609,
+      "lon": -27.6719,
+      "course": 68,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594540000,
+      "lat": 53.6435,
+      "lon": -27.3071,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594600000,
+      "lat": 53.6845,
+      "lon": -27.1225,
+      "course": 69,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594660000,
+      "lat": 53.7252,
+      "lon": -26.9376,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594721000,
+      "lat": 53.7663,
+      "lon": -26.7492,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594781000,
+      "lat": 53.8064,
+      "lon": -26.5635,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594899000,
+      "lat": 53.8844,
+      "lon": -26.1973,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 594962000,
+      "lat": 53.9256,
+      "lon": -26.0012,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595080000,
+      "lat": 54.0019,
+      "lon": -25.6331,
+      "course": 70,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595140000,
+      "lat": 54.0403,
+      "lon": -25.4453,
+      "course": 71,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595200000,
+      "lat": 54.0784,
+      "lon": -25.2572,
+      "course": 71,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595319000,
+      "lat": 54.1531,
+      "lon": -24.8831,
+      "course": 71,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595382000,
+      "lat": 54.1922,
+      "lon": -24.6845,
+      "course": 71,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595502000,
+      "lat": 54.2656,
+      "lon": -24.3052,
+      "course": 72,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595621000,
+      "lat": 54.3373,
+      "lon": -23.9277,
+      "course": 72,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595681000,
+      "lat": 54.373,
+      "lon": -23.737,
+      "course": 72,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595741000,
+      "lat": 54.4083,
+      "lon": -23.5458,
+      "course": 72,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595802000,
+      "lat": 54.444,
+      "lon": -23.3511,
+      "course": 72,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595921000,
+      "lat": 54.5126,
+      "lon": -22.9703,
+      "course": 73,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 595981000,
+      "lat": 54.5468,
+      "lon": -22.7778,
+      "course": 73,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596100000,
+      "lat": 54.6136,
+      "lon": -22.3951,
+      "course": 73,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596161000,
+      "lat": 54.6474,
+      "lon": -22.1985,
+      "course": 73,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596222000,
+      "lat": 54.6809,
+      "lon": -22.0015,
+      "course": 74,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596339000,
+      "lat": 54.7442,
+      "lon": -21.6228,
+      "course": 74,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596401000,
+      "lat": 54.7773,
+      "lon": -21.4216,
+      "course": 74,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596520000,
+      "lat": 54.8398,
+      "lon": -21.0346,
+      "course": 74,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596580000,
+      "lat": 54.8709,
+      "lon": -20.839,
+      "course": 74,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596641000,
+      "lat": 54.9021,
+      "lon": -20.6399,
+      "course": 75,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596762000,
+      "lat": 54.9631,
+      "lon": -20.2439,
+      "course": 75,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 596880000,
+      "lat": 54.9973,
+      "lon": -19.8522,
+      "course": 92,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597001000,
+      "lat": 54.9889,
+      "lon": -19.4419,
+      "course": 92,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597061000,
+      "lat": 54.9842,
+      "lon": -19.2385,
+      "course": 92,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597121000,
+      "lat": 54.9792,
+      "lon": -19.0352,
+      "course": 92,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597181000,
+      "lat": 54.9739,
+      "lon": -18.8319,
+      "course": 93,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597300000,
+      "lat": 54.9623,
+      "lon": -18.4289,
+      "course": 93,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597360000,
+      "lat": 54.956,
+      "lon": -18.2258,
+      "course": 93,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597420000,
+      "lat": 54.9493,
+      "lon": -18.0228,
+      "course": 93,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597481000,
+      "lat": 54.9422,
+      "lon": -17.8164,
+      "course": 93,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": 597541000,
+      "lat": 54.9348,
+      "lon": -17.6135,
+      "course": 94,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": -7153000,
+      "lat": 55.1028,
+      "lon": -13.8153,
+      "course": 82,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 37000
+    },
+    {
+      "date": -7139000,
+      "lat": 54.9191,
+      "lon": -17.2079,
+      "course": 94,
+      "direction": "East",
+      "knots": null,
+      "mph": null,
+      "feets": 37000
+    },
+    {
+      "date": -7105000,
+      "lat": 55.1177,
+      "lon": -13.6296,
+      "course": 82,
+      "direction": "East",
+      "knots": 474,
+      "mph": 545,
+      "feets": 37000
+    },
+    {
+      "date": -6674000,
+      "lat": 55.2385,
+      "lon": -11.974,
+      "course": 83,
+      "direction": "East",
+      "knots": 486,
+      "mph": 559,
+      "feets": 37000
+    },
+    {
+      "date": -6643000,
+      "lat": 55.2468,
+      "lon": -11.8451,
+      "course": 83,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6613000,
+      "lat": 55.2505,
+      "lon": -11.7905,
+      "course": 83,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6581000,
+      "lat": 55.2573,
+      "lon": -11.6848,
+      "course": 83,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6550000,
+      "lat": 55.2697,
+      "lon": -11.4851,
+      "course": 83,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6520000,
+      "lat": 55.276,
+      "lon": -11.383,
+      "course": 83,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6490000,
+      "lat": 55.284,
+      "lon": -11.2498,
+      "course": 84,
+      "direction": "East",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -6460000,
+      "lat": 55.2906,
+      "lon": -11.1396,
+      "course": 84,
+      "direction": "East",
+      "knots": 488,
+      "mph": 562,
+      "feets": 37000
+    },
+    {
+      "date": -6430000,
+      "lat": 55.298,
+      "lon": -11.0138,
+      "course": 84,
+      "direction": "East",
+      "knots": 489,
+      "mph": 563,
+      "feets": 37000
+    },
+    {
+      "date": -6400000,
+      "lat": 55.3044,
+      "lon": -10.9032,
+      "course": 84,
+      "direction": "East",
+      "knots": 489,
+      "mph": 563,
+      "feets": 37000
+    },
+    {
+      "date": -6370000,
+      "lat": 55.3117,
+      "lon": -10.7729,
+      "course": 84,
+      "direction": "East",
+      "knots": 490,
+      "mph": 564,
+      "feets": 37000
+    },
+    {
+      "date": -6339000,
+      "lat": 55.3178,
+      "lon": -10.6619,
+      "course": 85,
+      "direction": "East",
+      "knots": 491,
+      "mph": 565,
+      "feets": 37000
+    },
+    {
+      "date": -6307000,
+      "lat": 55.3194,
+      "lon": -10.5268,
+      "course": 91,
+      "direction": "East",
+      "knots": 492,
+      "mph": 566,
+      "feets": 37000
+    },
+    {
+      "date": -6250000,
+      "lat": 55.3129,
+      "lon": -10.3037,
+      "course": 93,
+      "direction": "East",
+      "knots": 493,
+      "mph": 567,
+      "feets": 37000
+    },
+    {
+      "date": -6220000,
+      "lat": 55.3094,
+      "lon": -10.2165,
+      "course": 94,
+      "direction": "East",
+      "knots": 493,
+      "mph": 567,
+      "feets": 37000
+    },
+    {
+      "date": -6190000,
+      "lat": 55.3028,
+      "lon": -10.065,
+      "course": 94,
+      "direction": "East",
+      "knots": 494,
+      "mph": 568,
+      "feets": 37000
+    },
+    {
+      "date": -6129000,
+      "lat": 55.292,
+      "lon": -9.8257,
+      "course": 94,
+      "direction": "East",
+      "knots": 494,
+      "mph": 568,
+      "feets": 37000
+    },
+    {
+      "date": -6099000,
+      "lat": 55.2859,
+      "lon": -9.6979,
+      "course": 94,
+      "direction": "East",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -6069000,
+      "lat": 55.2802,
+      "lon": -9.5782,
+      "course": 94,
+      "direction": "East",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -5995000,
+      "lat": 55.2655,
+      "lon": -9.2822,
+      "course": 95,
+      "direction": "East",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -5935000,
+      "lat": 55.2529,
+      "lon": -9.0384,
+      "course": 94,
+      "direction": "East",
+      "knots": 496,
+      "mph": 571,
+      "feets": 37000
+    },
+    {
+      "date": -5919000,
+      "lat": 55.2491,
+      "lon": -8.9736,
+      "course": 95,
+      "direction": "East",
+      "knots": 496,
+      "mph": 571,
+      "feets": 37000
+    },
+    {
+      "date": -5903000,
+      "lat": 55.2466,
+      "lon": -8.9183,
+      "course": 95,
+      "direction": "East",
+      "knots": 497,
+      "mph": 572,
+      "feets": 37000
+    },
+    {
+      "date": -5869000,
+      "lat": 55.239,
+      "lon": -8.7786,
+      "course": 95,
+      "direction": "East",
+      "knots": 497,
+      "mph": 572,
+      "feets": 37000
+    },
+    {
+      "date": -5835000,
+      "lat": 55.2316,
+      "lon": -8.6424,
+      "course": 96,
+      "direction": "East",
+      "knots": 497,
+      "mph": 572,
+      "feets": 37000
+    },
+    {
+      "date": -5799000,
+      "lat": 55.2233,
+      "lon": -8.4986,
+      "course": 96,
+      "direction": "East",
+      "knots": 497,
+      "mph": 572,
+      "feets": 37000
+    },
+    {
+      "date": -5768000,
+      "lat": 55.2163,
+      "lon": -8.3788,
+      "course": 95,
+      "direction": "East",
+      "knots": 497,
+      "mph": 572,
+      "feets": 37000
+    },
+    {
+      "date": -5726000,
+      "lat": 55.206,
+      "lon": -8.2028,
+      "course": 96,
+      "direction": "East",
+      "knots": 499,
+      "mph": 574,
+      "feets": 37000
+    },
+    {
+      "date": -5661000,
+      "lat": 55.1917,
+      "lon": -7.9667,
+      "course": 96,
+      "direction": "East",
+      "knots": 498,
+      "mph": 573,
+      "feets": 37000
+    },
+    {
+      "date": -5649000,
+      "lat": 55.187,
+      "lon": -7.8938,
+      "course": 96,
+      "direction": "East",
+      "knots": 498,
+      "mph": 573,
+      "feets": 37000
+    },
+    {
+      "date": -5598000,
+      "lat": 55.1744,
+      "lon": -7.6904,
+      "course": 95,
+      "direction": "East",
+      "knots": 499,
+      "mph": 574,
+      "feets": 37000
+    },
+    {
+      "date": -5589000,
+      "lat": 55.1717,
+      "lon": -7.6525,
+      "course": 96,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 37000
+    },
+    {
+      "date": -5565000,
+      "lat": 55.1672,
+      "lon": -7.582,
+      "course": 96,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 37000
+    },
+    {
+      "date": -5529000,
+      "lat": 55.1584,
+      "lon": -7.4457,
+      "course": 96,
+      "direction": "East",
+      "knots": 500,
+      "mph": 575,
+      "feets": 37000
+    },
+    {
+      "date": -5499000,
+      "lat": 55.1486,
+      "lon": -7.2973,
+      "course": 97,
+      "direction": "East",
+      "knots": 501,
+      "mph": 577,
+      "feets": 37000
+    },
+    {
+      "date": -5469000,
+      "lat": 55.1405,
+      "lon": -7.1771,
+      "course": 96,
+      "direction": "East",
+      "knots": 501,
+      "mph": 577,
+      "feets": 37000
+    },
+    {
+      "date": -5418000,
+      "lat": 55.1264,
+      "lon": -6.9762,
+      "course": 96,
+      "direction": "East",
+      "knots": 501,
+      "mph": 577,
+      "feets": 37000
+    },
+    {
+      "date": -5409000,
+      "lat": 55.1233,
+      "lon": -6.9292,
+      "course": 96,
+      "direction": "East",
+      "knots": 502,
+      "mph": 578,
+      "feets": 37000
+    },
+    {
+      "date": -5352000,
+      "lat": 55.1074,
+      "lon": -6.7076,
+      "course": 97,
+      "direction": "East",
+      "knots": 502,
+      "mph": 578,
+      "feets": 37000
+    },
+    {
+      "date": -5349000,
+      "lat": 55.106,
+      "lon": -6.6877,
+      "course": 96,
+      "direction": "East",
+      "knots": 502,
+      "mph": 578,
+      "feets": 37000
+    },
+    {
+      "date": -5290000,
+      "lat": 55.0893,
+      "lon": -6.4588,
+      "course": 97,
+      "direction": "East",
+      "knots": 502,
+      "mph": 578,
+      "feets": 37000
+    },
+    {
+      "date": -5283000,
+      "lat": 55.0866,
+      "lon": -6.4229,
+      "course": 97,
+      "direction": "East",
+      "knots": 502,
+      "mph": 578,
+      "feets": 37000
+    },
+    {
+      "date": -5228000,
+      "lat": 55.0705,
+      "lon": -6.21,
+      "course": 97,
+      "direction": "East",
+      "knots": 503,
+      "mph": 579,
+      "feets": 37000
+    },
+    {
+      "date": -5222000,
+      "lat": 55.0684,
+      "lon": -6.1813,
+      "course": 97,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -5166000,
+      "lat": 55.0511,
+      "lon": -5.961,
+      "course": 97,
+      "direction": "East",
+      "knots": 503,
+      "mph": 579,
+      "feets": 37000
+    },
+    {
+      "date": -5162000,
+      "lat": 55.0496,
+      "lon": -5.9404,
+      "course": 97,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -5106000,
+      "lat": 55.0315,
+      "lon": -5.7162,
+      "course": 98,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -5102000,
+      "lat": 55.0304,
+      "lon": -5.6986,
+      "course": 97,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -5042000,
+      "lat": 55.0105,
+      "lon": -5.4572,
+      "course": 98,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -5023000,
+      "lat": 55.0112,
+      "lon": -5.4676,
+      "course": 98,
+      "direction": "East",
+      "knots": 505,
+      "mph": 581,
+      "feets": 37000
+    },
+    {
+      "date": -5012000,
+      "lat": 55.0005,
+      "lon": -5.3368,
+      "course": 98,
+      "direction": "East",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -4992000,
+      "lat": 54.9977,
+      "lon": -5.307,
+      "course": 98,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -4962000,
+      "lat": 54.9844,
+      "lon": -5.1504,
+      "course": 98,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -4932000,
+      "lat": 54.9741,
+      "lon": -5.0296,
+      "course": 98,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -4902000,
+      "lat": 54.9636,
+      "lon": -4.9087,
+      "course": 98,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -4871000,
+      "lat": 54.9573,
+      "lon": -4.8365,
+      "course": 98,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -4840000,
+      "lat": 54.9405,
+      "lon": -4.6475,
+      "course": 99,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -4808000,
+      "lat": 54.929,
+      "lon": -4.5225,
+      "course": 98,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -4777000,
+      "lat": 54.9189,
+      "lon": -4.4101,
+      "course": 98,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -4742000,
+      "lat": 54.9076,
+      "lon": -4.2891,
+      "course": 99,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4712000,
+      "lat": 54.8945,
+      "lon": -4.1483,
+      "course": 99,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -4682000,
+      "lat": 54.8816,
+      "lon": -4.0115,
+      "course": 99,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4652000,
+      "lat": 54.8717,
+      "lon": -3.9071,
+      "course": 99,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4622000,
+      "lat": 54.8621,
+      "lon": -3.8102,
+      "course": 99,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4585000,
+      "lat": 54.8578,
+      "lon": -3.7663,
+      "course": 100,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4544000,
+      "lat": 54.8325,
+      "lon": -3.5089,
+      "course": 99,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4483000,
+      "lat": 54.8026,
+      "lon": -3.2102,
+      "course": 99,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 37000
+    },
+    {
+      "date": -4474000,
+      "lat": 54.8027,
+      "lon": -3.2118,
+      "course": 100,
+      "direction": "East",
+      "knots": 509,
+      "mph": 586,
+      "feets": 37000
+    },
+    {
+      "date": -4414000,
+      "lat": 54.7746,
+      "lon": -2.9431,
+      "course": 100,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 37000
+    },
+    {
+      "date": -4351000,
+      "lat": 54.7475,
+      "lon": -2.6866,
+      "course": 100,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 37000
+    },
+    {
+      "date": -4291000,
+      "lat": 54.722,
+      "lon": -2.4498,
+      "course": 100,
+      "direction": "East",
+      "knots": 510,
+      "mph": 587,
+      "feets": 37000
+    },
+    {
+      "date": -4253000,
+      "lat": 54.7085,
+      "lon": -2.3257,
+      "course": 100,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -4221000,
+      "lat": 54.7018,
+      "lon": -2.2657,
+      "course": 100,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -4184000,
+      "lat": 54.6823,
+      "lon": -2.0893,
+      "course": 100,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -4151000,
+      "lat": 54.6639,
+      "lon": -1.9293,
+      "course": 100,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -4109000,
+      "lat": 54.6511,
+      "lon": -1.8173,
+      "course": 101,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -4047000,
+      "lat": 54.6176,
+      "lon": -1.5295,
+      "course": 101,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -4045000,
+      "lat": 54.609,
+      "lon": -1.4535,
+      "course": 101,
+      "direction": "East",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -3979000,
+      "lat": 54.5779,
+      "lon": -1.1904,
+      "course": 101,
+      "direction": "East",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -3974000,
+      "lat": 54.5817,
+      "lon": -1.2257,
+      "course": 101,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3944000,
+      "lat": 54.5677,
+      "lon": -1.1095,
+      "course": 101,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3913000,
+      "lat": 54.5468,
+      "lon": -0.9382,
+      "course": 101,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3882000,
+      "lat": 54.5381,
+      "lon": -0.8663,
+      "course": 101,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3843000,
+      "lat": 54.5249,
+      "lon": -0.7587,
+      "course": 102,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3813000,
+      "lat": 54.5056,
+      "lon": -0.6035,
+      "course": 102,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -3736000,
+      "lat": 54.4622,
+      "lon": -0.2612,
+      "course": 102,
+      "direction": "East",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -3732000,
+      "lat": 54.4554,
+      "lon": -0.2087,
+      "course": 102,
+      "direction": "East",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -3699000,
+      "lat": 54.4457,
+      "lon": -0.1342,
+      "course": 102,
+      "direction": "East",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -3661000,
+      "lat": 54.4498,
+      "lon": -0.1659,
+      "course": 102,
+      "direction": "East",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -3629000,
+      "lat": 54.4102,
+      "lon": 0.1366,
+      "course": 102,
+      "direction": "East",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": -3596000,
+      "lat": 54.4019,
+      "lon": 0.2003,
+      "course": 103,
+      "direction": "East",
+      "knots": 517,
+      "mph": 595,
+      "feets": 37000
+    },
+    {
+      "date": -3556000,
+      "lat": 54.3633,
+      "lon": 0.4833,
+      "course": 103,
+      "direction": "East",
+      "knots": 518,
+      "mph": 596,
+      "feets": 37000
+    },
+    {
+      "date": -3492000,
+      "lat": 54.336,
+      "lon": 0.6868,
+      "course": 103,
+      "direction": "East",
+      "knots": 518,
+      "mph": 596,
+      "feets": 37000
+    },
+    {
+      "date": -3480000,
+      "lat": 54.3207,
+      "lon": 0.7985,
+      "course": 103,
+      "direction": "East",
+      "knots": 518,
+      "mph": 596,
+      "feets": 37000
+    },
+    {
+      "date": -3435000,
+      "lat": 54.3085,
+      "lon": 0.8864,
+      "course": 283,
+      "direction": "West",
+      "knots": 421,
+      "mph": 484,
+      "feets": 37000
+    },
+    {
+      "date": -3362000,
+      "lat": 54.2614,
+      "lon": 1.2209,
+      "course": 103,
+      "direction": "East",
+      "knots": 519,
+      "mph": 597,
+      "feets": 37000
+    },
+    {
+      "date": -3353000,
+      "lat": 54.25,
+      "lon": 1.3013,
+      "course": 283,
+      "direction": "West",
+      "knots": 520,
+      "mph": 598,
+      "feets": 37000
+    },
+    {
+      "date": -3327000,
+      "lat": 54.2358,
+      "lon": 1.3998,
+      "course": 104,
+      "direction": "East",
+      "knots": 519,
+      "mph": 597,
+      "feets": 37000
+    },
+    {
+      "date": -3295000,
+      "lat": 54.22,
+      "lon": 1.5074,
+      "course": 104,
+      "direction": "East",
+      "knots": 519,
+      "mph": 597,
+      "feets": 37000
+    },
+    {
+      "date": -3261000,
+      "lat": 54.2098,
+      "lon": 1.5787,
+      "course": 103,
+      "direction": "East",
+      "knots": 518,
+      "mph": 596,
+      "feets": 37000
+    },
+    {
+      "date": -3230000,
+      "lat": 54.18,
+      "lon": 1.781,
+      "course": 104,
+      "direction": "East",
+      "knots": 517,
+      "mph": 595,
+      "feets": 37000
+    },
+    {
+      "date": -3192000,
+      "lat": 54.1554,
+      "lon": 1.9297,
+      "course": 107,
+      "direction": "East",
+      "knots": 516,
+      "mph": 594,
+      "feets": 37000
+    },
+    {
+      "date": -3161000,
+      "lat": 54.1319,
+      "lon": 2.0534,
+      "course": 108,
+      "direction": "East",
+      "knots": 517,
+      "mph": 595,
+      "feets": 37000
+    },
+    {
+      "date": -3131000,
+      "lat": 54.1269,
+      "lon": 2.0805,
+      "course": 108,
+      "direction": "East",
+      "knots": 516,
+      "mph": 594,
+      "feets": 37000
+    },
+    {
+      "date": -3065000,
+      "lat": 54.0553,
+      "lon": 2.4247,
+      "course": 108,
+      "direction": "East",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -3061000,
+      "lat": 54.058,
+      "lon": 2.4087,
+      "course": 109,
+      "direction": "East",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": -3001000,
+      "lat": 54.015,
+      "lon": 2.6096,
+      "course": 110,
+      "direction": "East",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -2941000,
+      "lat": 53.9541,
+      "lon": 2.8917,
+      "course": 110,
+      "direction": "East",
+      "knots": 511,
+      "mph": 588,
+      "feets": 37000
+    },
+    {
+      "date": -2857000,
+      "lat": 53.9015,
+      "lon": 3.1313,
+      "course": 110,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2855000,
+      "lat": 53.8833,
+      "lon": 3.2149,
+      "course": 110,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2826000,
+      "lat": 53.8746,
+      "lon": 3.2543,
+      "course": 110,
+      "direction": "East",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2793000,
+      "lat": 53.8402,
+      "lon": 3.4104,
+      "course": 110,
+      "direction": "East",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2762000,
+      "lat": 53.8231,
+      "lon": 3.4845,
+      "course": 110,
+      "direction": "East",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2699000,
+      "lat": 53.7544,
+      "lon": 3.7938,
+      "course": 110,
+      "direction": "East",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2692000,
+      "lat": 53.7523,
+      "lon": 3.8025,
+      "course": 110,
+      "direction": "East",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2629000,
+      "lat": 53.6966,
+      "lon": 4.0459,
+      "course": 111,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2569000,
+      "lat": 53.6454,
+      "lon": 4.2702,
+      "course": 111,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2506000,
+      "lat": 53.594,
+      "lon": 4.4899,
+      "course": 111,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2445000,
+      "lat": 53.5743,
+      "lon": 4.5743,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2403000,
+      "lat": 53.5256,
+      "lon": 4.7792,
+      "course": 111,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2332000,
+      "lat": 53.4409,
+      "lon": 5.1386,
+      "course": 111,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2308000,
+      "lat": 53.5163,
+      "lon": 4.8191,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2302000,
+      "lat": 53.4142,
+      "lon": 5.2479,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2242000,
+      "lat": 53.3611,
+      "lon": 5.4656,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -2216000,
+      "lat": 53.3615,
+      "lon": 5.4635,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -2206000,
+      "lat": 53.3294,
+      "lon": 5.5962,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2151000,
+      "lat": 53.2941,
+      "lon": 5.7353,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2146000,
+      "lat": 53.2761,
+      "lon": 5.8133,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2090000,
+      "lat": 53.2421,
+      "lon": 5.9451,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2086000,
+      "lat": 53.2222,
+      "lon": 6.0307,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 521,
+      "mph": 600,
+      "feets": 37000
+    },
+    {
+      "date": -2026000,
+      "lat": 53.1677,
+      "lon": 6.2474,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -2025000,
+      "lat": 53.181,
+      "lon": 6.1904,
+      "course": 112,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -1958000,
+      "lat": 53.1057,
+      "lon": 6.4856,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -1928000,
+      "lat": 53.0933,
+      "lon": 6.5321,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -1898000,
+      "lat": 53.0713,
+      "lon": 6.6182,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -1863000,
+      "lat": 53.0245,
+      "lon": 6.7965,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -1832000,
+      "lat": 52.9965,
+      "lon": 6.8993,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -1802000,
+      "lat": 52.9637,
+      "lon": 7.0198,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -1772000,
+      "lat": 52.9386,
+      "lon": 7.112,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 507,
+      "mph": 583,
+      "feets": 37000
+    },
+    {
+      "date": -1739000,
+      "lat": 52.9211,
+      "lon": 7.1787,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -1709000,
+      "lat": 52.8789,
+      "lon": 7.3303,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 506,
+      "mph": 582,
+      "feets": 37000
+    },
+    {
+      "date": -1672000,
+      "lat": 52.8471,
+      "lon": 7.4465,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 504,
+      "mph": 580,
+      "feets": 37000
+    },
+    {
+      "date": -1608000,
+      "lat": 52.7881,
+      "lon": 7.6685,
+      "course": 113,
+      "direction": "Southeast",
+      "knots": 503,
+      "mph": 579,
+      "feets": 37000
+    },
+    {
+      "date": -1547000,
+      "lat": 52.7233,
+      "lon": 7.9102,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 503,
+      "mph": 579,
+      "feets": 37000
+    },
+    {
+      "date": -1470000,
+      "lat": 52.65,
+      "lon": 8.1789,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 500,
+      "mph": 575,
+      "feets": 37000
+    },
+    {
+      "date": -1436000,
+      "lat": 52.6203,
+      "lon": 8.2851,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 488,
+      "mph": 562,
+      "feets": 37000
+    },
+    {
+      "date": -1367000,
+      "lat": 52.5501,
+      "lon": 8.5396,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 482,
+      "mph": 555,
+      "feets": 37000
+    },
+    {
+      "date": -1305000,
+      "lat": 52.4969,
+      "lon": 8.7289,
+      "course": 114,
+      "direction": "Southeast",
+      "knots": 483,
+      "mph": 556,
+      "feets": 37000
+    },
+    {
+      "date": -1242000,
+      "lat": 52.4367,
+      "lon": 8.9416,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 485,
+      "mph": 558,
+      "feets": 37000
+    },
+    {
+      "date": -1178000,
+      "lat": 52.3678,
+      "lon": 9.181,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 487,
+      "mph": 560,
+      "feets": 37000
+    },
+    {
+      "date": -1135000,
+      "lat": 52.3322,
+      "lon": 9.3076,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 489,
+      "mph": 563,
+      "feets": 37000
+    },
+    {
+      "date": -1105000,
+      "lat": 52.3022,
+      "lon": 9.4111,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 489,
+      "mph": 563,
+      "feets": 37000
+    },
+    {
+      "date": -1073000,
+      "lat": 52.2695,
+      "lon": 9.5212,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 490,
+      "mph": 564,
+      "feets": 37000
+    },
+    {
+      "date": -1043000,
+      "lat": 52.2409,
+      "lon": 9.6212,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 491,
+      "mph": 565,
+      "feets": 37000
+    },
+    {
+      "date": -1011000,
+      "lat": 52.2237,
+      "lon": 9.6812,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 491,
+      "mph": 565,
+      "feets": 37000
+    },
+    {
+      "date": -976000,
+      "lat": 52.1907,
+      "lon": 9.7913,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 492,
+      "mph": 566,
+      "feets": 37000
+    },
+    {
+      "date": -945000,
+      "lat": 52.1456,
+      "lon": 9.945,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 494,
+      "mph": 568,
+      "feets": 37000
+    },
+    {
+      "date": -879000,
+      "lat": 52.0798,
+      "lon": 10.1654,
+      "course": 115,
+      "direction": "Southeast",
+      "knots": 494,
+      "mph": 568,
+      "feets": 37000
+    },
+    {
+      "date": -777000,
+      "lat": 51.9941,
+      "lon": 10.4488,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -747000,
+      "lat": 51.9476,
+      "lon": 10.602,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -716000,
+      "lat": 51.9272,
+      "lon": 10.6717,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 496,
+      "mph": 571,
+      "feets": 37000
+    },
+    {
+      "date": -686000,
+      "lat": 51.8808,
+      "lon": 10.8214,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 496,
+      "mph": 571,
+      "feets": 37000
+    },
+    {
+      "date": -655000,
+      "lat": 51.8593,
+      "lon": 10.891,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 496,
+      "mph": 571,
+      "feets": 37000
+    },
+    {
+      "date": -578000,
+      "lat": 51.7808,
+      "lon": 11.1459,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 495,
+      "mph": 570,
+      "feets": 37000
+    },
+    {
+      "date": -518000,
+      "lat": 51.7159,
+      "lon": 11.3527,
+      "course": 116,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 37000
+    },
+    {
+      "date": -446000,
+      "lat": 51.6452,
+      "lon": 11.576,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -416000,
+      "lat": 51.604,
+      "lon": 11.7049,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -381000,
+      "lat": 51.569,
+      "lon": 11.8168,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 512,
+      "mph": 589,
+      "feets": 37000
+    },
+    {
+      "date": -350000,
+      "lat": 51.544,
+      "lon": 11.8914,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -264000,
+      "lat": 51.4464,
+      "lon": 12.1953,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -232000,
+      "lat": 51.401,
+      "lon": 12.3335,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -200000,
+      "lat": 51.3811,
+      "lon": 12.394,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -164000,
+      "lat": 51.3301,
+      "lon": 12.5519,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 513,
+      "mph": 590,
+      "feets": 37000
+    },
+    {
+      "date": -128000,
+      "lat": 51.2893,
+      "lon": 12.6727,
+      "course": 117,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -96000,
+      "lat": 51.2472,
+      "lon": 12.8001,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": -63000,
+      "lat": 51.21,
+      "lon": 12.9103,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": -30000,
+      "lat": 51.1829,
+      "lon": 12.9939,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": 102000,
+      "lat": 51.0239,
+      "lon": 13.4602,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 171000,
+      "lat": 50.9652,
+      "lon": 13.6329,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 202000,
+      "lat": 50.9118,
+      "lon": 13.7881,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 232000,
+      "lat": 50.8761,
+      "lon": 13.8904,
+      "course": 118,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": 266000,
+      "lat": 50.8396,
+      "lon": 13.988,
+      "course": 123,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 285000,
+      "lat": 50.8128,
+      "lon": 14.0463,
+      "course": 129,
+      "direction": "Southeast",
+      "knots": 518,
+      "mph": 596,
+      "feets": 37000
+    },
+    {
+      "date": 347000,
+      "lat": 50.6979,
+      "lon": 14.2217,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 520,
+      "mph": 598,
+      "feets": 37000
+    },
+    {
+      "date": 411000,
+      "lat": 50.5929,
+      "lon": 14.3594,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 519,
+      "mph": 597,
+      "feets": 37000
+    },
+    {
+      "date": 471000,
+      "lat": 50.4698,
+      "lon": 14.5183,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 517,
+      "mph": 595,
+      "feets": 37000
+    },
+    {
+      "date": 534000,
+      "lat": 50.3591,
+      "lon": 14.6644,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 517,
+      "mph": 595,
+      "feets": 37000
+    },
+    {
+      "date": 595000,
+      "lat": 50.2488,
+      "lon": 14.8073,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 638000,
+      "lat": 50.1883,
+      "lon": 14.8851,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 515,
+      "mph": 593,
+      "feets": 37000
+    },
+    {
+      "date": 672000,
+      "lat": 50.1005,
+      "lon": 14.9958,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 514,
+      "mph": 592,
+      "feets": 37000
+    },
+    {
+      "date": 712000,
+      "lat": 50.036,
+      "lon": 15.0805,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 523,
+      "mph": 602,
+      "feets": 36100
+    },
+    {
+      "date": 736000,
+      "lat": 49.9818,
+      "lon": 15.1475,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 535,
+      "mph": 616,
+      "feets": 35500
+    },
+    {
+      "date": 766000,
+      "lat": 49.9269,
+      "lon": 15.2175,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 532,
+      "mph": 612,
+      "feets": 35000
+    },
+    {
+      "date": 796000,
+      "lat": 49.8743,
+      "lon": 15.285,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 532,
+      "mph": 612,
+      "feets": 34700
+    },
+    {
+      "date": 826000,
+      "lat": 49.8136,
+      "lon": 15.3611,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 526,
+      "mph": 605,
+      "feets": 33800
+    },
+    {
+      "date": 857000,
+      "lat": 49.7576,
+      "lon": 15.4298,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 521,
+      "mph": 600,
+      "feets": 32600
+    },
+    {
+      "date": 882000,
+      "lat": 49.7095,
+      "lon": 15.4903,
+      "course": 142,
+      "direction": "Southeast",
+      "knots": 560,
+      "mph": 644,
+      "feets": 31500
+    },
+    {
+      "date": 903000,
+      "lat": 49.6744,
+      "lon": 15.5342,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 508,
+      "mph": 585,
+      "feets": 30800
+    },
+    {
+      "date": 943000,
+      "lat": 49.5925,
+      "lon": 15.6378,
+      "course": 139,
+      "direction": "Southeast",
+      "knots": 496,
+      "mph": 571,
+      "feets": 29000
+    },
+    {
+      "date": 973000,
+      "lat": 49.5393,
+      "lon": 15.7038,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 487,
+      "mph": 560,
+      "feets": 27900
+    },
+    {
+      "date": 1026000,
+      "lat": 49.4566,
+      "lon": 15.8067,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 472,
+      "mph": 543,
+      "feets": 26000
+    },
+    {
+      "date": 1067000,
+      "lat": 49.3858,
+      "lon": 15.8938,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 461,
+      "mph": 531,
+      "feets": 24500
+    },
+    {
+      "date": 1101000,
+      "lat": 49.3257,
+      "lon": 15.9667,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 452,
+      "mph": 520,
+      "feets": 23100
+    },
+    {
+      "date": 1133000,
+      "lat": 49.2742,
+      "lon": 16.0298,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 441,
+      "mph": 507,
+      "feets": 21900
+    },
+    {
+      "date": 1163000,
+      "lat": 49.2264,
+      "lon": 16.0878,
+      "course": 140,
+      "direction": "Southeast",
+      "knots": 433,
+      "mph": 498,
+      "feets": 20800
+    },
+    {
+      "date": 1196000,
+      "lat": 49.1867,
+      "lon": 16.137,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 424,
+      "mph": 488,
+      "feets": 19900
+    },
+    {
+      "date": 1226000,
+      "lat": 49.1344,
+      "lon": 16.1998,
+      "course": 141,
+      "direction": "Southeast",
+      "knots": 418,
+      "mph": 481,
+      "feets": 18700
+    },
+    {
+      "date": 1255000,
+      "lat": 49.0867,
+      "lon": 16.2575,
+      "course": 145,
+      "direction": "Southeast",
+      "knots": 410,
+      "mph": 472,
+      "feets": 17500
+    },
+    {
+      "date": 1278000,
+      "lat": 49.0491,
+      "lon": 16.287,
+      "course": 155,
+      "direction": "Southeast",
+      "knots": 401,
+      "mph": 461,
+      "feets": 16900
+    },
+    {
+      "date": 1293000,
+      "lat": 49.019,
+      "lon": 16.3025,
+      "course": 165,
+      "direction": "South",
+      "knots": 391,
+      "mph": 450,
+      "feets": 16400
+    },
+    {
+      "date": 1333000,
+      "lat": 48.9481,
+      "lon": 16.3213,
+      "course": 171,
+      "direction": "South",
+      "knots": 383,
+      "mph": 441,
+      "feets": 15000
+    },
+    {
+      "date": 1351000,
+      "lat": 48.9193,
+      "lon": 16.3277,
+      "course": 169,
+      "direction": "South",
+      "knots": 379,
+      "mph": 436,
+      "feets": 14400
+    },
+    {
+      "date": 1382000,
+      "lat": 48.8642,
+      "lon": 16.3408,
+      "course": 171,
+      "direction": "South",
+      "knots": 383,
+      "mph": 441,
+      "feets": 13000
+    },
+    {
+      "date": 1412000,
+      "lat": 48.8097,
+      "lon": 16.3534,
+      "course": 171,
+      "direction": "South",
+      "knots": 395,
+      "mph": 455,
+      "feets": 11300
+    },
+    {
+      "date": 1442000,
+      "lat": 48.7565,
+      "lon": 16.3663,
+      "course": 170,
+      "direction": "South",
+      "knots": 385,
+      "mph": 443,
+      "feets": 10100
+    },
+    {
+      "date": 1457000,
+      "lat": 48.7295,
+      "lon": 16.3731,
+      "course": 170,
+      "direction": "South",
+      "knots": 375,
+      "mph": 432,
+      "feets": 9800
+    },
+    {
+      "date": 1473000,
+      "lat": 48.7156,
+      "lon": 16.3764,
+      "course": 170,
+      "direction": "South",
+      "knots": 363,
+      "mph": 418,
+      "feets": 9800
+    },
+    {
+      "date": 1493000,
+      "lat": 48.6725,
+      "lon": 16.3869,
+      "course": 170,
+      "direction": "South",
+      "knots": 331,
+      "mph": 381,
+      "feets": 9800
+    },
+    {
+      "date": 1519000,
+      "lat": 48.6341,
+      "lon": 16.3965,
+      "course": 170,
+      "direction": "South",
+      "knots": 307,
+      "mph": 353,
+      "feets": 9700
+    },
+    {
+      "date": 1534000,
+      "lat": 48.6135,
+      "lon": 16.401,
+      "course": 171,
+      "direction": "South",
+      "knots": 301,
+      "mph": 346,
+      "feets": 9500
+    },
+    {
+      "date": 1560000,
+      "lat": 48.578,
+      "lon": 16.4097,
+      "course": 170,
+      "direction": "South",
+      "knots": 296,
+      "mph": 341,
+      "feets": 9000
+    },
+    {
+      "date": 1575000,
+      "lat": 48.5583,
+      "lon": 16.4143,
+      "course": 171,
+      "direction": "South",
+      "knots": 296,
+      "mph": 341,
+      "feets": 8700
+    },
+    {
+      "date": 1590000,
+      "lat": 48.5374,
+      "lon": 16.4192,
+      "course": 171,
+      "direction": "South",
+      "knots": 288,
+      "mph": 331,
+      "feets": 8500
+    },
+    {
+      "date": 1605000,
+      "lat": 48.5225,
+      "lon": 16.4227,
+      "course": 171,
+      "direction": "South",
+      "knots": 280,
+      "mph": 322,
+      "feets": 8300
+    },
+    {
+      "date": 1620000,
+      "lat": 48.5008,
+      "lon": 16.428,
+      "course": 170,
+      "direction": "South",
+      "knots": 273,
+      "mph": 314,
+      "feets": 8200
+    },
+    {
+      "date": 1635000,
+      "lat": 48.4802,
+      "lon": 16.4329,
+      "course": 170,
+      "direction": "South",
+      "knots": 265,
+      "mph": 305,
+      "feets": 8000
+    },
+    {
+      "date": 1650000,
+      "lat": 48.464,
+      "lon": 16.4369,
+      "course": 171,
+      "direction": "South",
+      "knots": 259,
+      "mph": 298,
+      "feets": 7800
+    },
+    {
+      "date": 1668000,
+      "lat": 48.4417,
+      "lon": 16.4429,
+      "course": 166,
+      "direction": "South",
+      "knots": 252,
+      "mph": 290,
+      "feets": 7300
+    },
+    {
+      "date": 1683000,
+      "lat": 48.4245,
+      "lon": 16.4489,
+      "course": 166,
+      "direction": "South",
+      "knots": 251,
+      "mph": 289,
+      "feets": 6900
+    },
+    {
+      "date": 1698000,
+      "lat": 48.408,
+      "lon": 16.4549,
+      "course": 164,
+      "direction": "South",
+      "knots": 246,
+      "mph": 283,
+      "feets": 6400
+    },
+    {
+      "date": 1714000,
+      "lat": 48.3915,
+      "lon": 16.4619,
+      "course": 164,
+      "direction": "South",
+      "knots": 244,
+      "mph": 281,
+      "feets": 6000
+    },
+    {
+      "date": 1732000,
+      "lat": 48.3706,
+      "lon": 16.4714,
+      "course": 164,
+      "direction": "South",
+      "knots": 239,
+      "mph": 275,
+      "feets": 5400
+    },
+    {
+      "date": 1747000,
+      "lat": 48.3546,
+      "lon": 16.4782,
+      "course": 164,
+      "direction": "South",
+      "knots": 236,
+      "mph": 272,
+      "feets": 5100
+    },
+    {
+      "date": 1773000,
+      "lat": 48.3286,
+      "lon": 16.4891,
+      "course": 164,
+      "direction": "South",
+      "knots": 225,
+      "mph": 259,
+      "feets": 4700
+    },
+    {
+      "date": 1788000,
+      "lat": 48.3144,
+      "lon": 16.4955,
+      "course": 164,
+      "direction": "South",
+      "knots": 226,
+      "mph": 260,
+      "feets": 4400
+    },
+    {
+      "date": 1803000,
+      "lat": 48.2982,
+      "lon": 16.5024,
+      "course": 164,
+      "direction": "South",
+      "knots": 224,
+      "mph": 258,
+      "feets": 4100
+    },
+    {
+      "date": 1818000,
+      "lat": 48.2852,
+      "lon": 16.5079,
+      "course": 164,
+      "direction": "South",
+      "knots": 220,
+      "mph": 253,
+      "feets": 3800
+    },
+    {
+      "date": 1833000,
+      "lat": 48.2693,
+      "lon": 16.5144,
+      "course": 164,
+      "direction": "South",
+      "knots": 210,
+      "mph": 242,
+      "feets": 3400
+    },
+    {
+      "date": 1848000,
+      "lat": 48.2556,
+      "lon": 16.5203,
+      "course": 164,
+      "direction": "South",
+      "knots": 196,
+      "mph": 226,
+      "feets": 3100
+    },
+    {
+      "date": 1863000,
+      "lat": 48.2435,
+      "lon": 16.5256,
+      "course": 164,
+      "direction": "South",
+      "knots": 185,
+      "mph": 213,
+      "feets": 2900
+    },
+    {
+      "date": 1878000,
+      "lat": 48.2307,
+      "lon": 16.5311,
+      "course": 164,
+      "direction": "South",
+      "knots": 174,
+      "mph": 200,
+      "feets": 2600
+    },
+    {
+      "date": 1898000,
+      "lat": 48.217,
+      "lon": 16.5367,
+      "course": 164,
+      "direction": "South",
+      "knots": 174,
+      "mph": 200,
+      "feets": 2300
+    },
+    {
+      "date": 1913000,
+      "lat": 48.2032,
+      "lon": 16.5427,
+      "course": 164,
+      "direction": "South",
+      "knots": 177,
+      "mph": 204,
+      "feets": 2000
+    },
+    {
+      "date": 1928000,
+      "lat": 48.1913,
+      "lon": 16.5477,
+      "course": 163,
+      "direction": "South",
+      "knots": 173,
+      "mph": 199,
+      "feets": 1800
+    },
+    {
+      "date": 1943000,
+      "lat": 48.1802,
+      "lon": 16.5525,
+      "course": 164,
+      "direction": "South",
+      "knots": 172,
+      "mph": 198,
+      "feets": 1500
+    }
+  ],
+  "fromCode": "Departure (KJFK",
+  "toCode": null,
+  "flightCode": null,
+  "departureDate": null,
+  "arrivalDate": null
+}
