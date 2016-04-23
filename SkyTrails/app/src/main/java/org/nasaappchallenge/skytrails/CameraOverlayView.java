@@ -78,7 +78,9 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
             return;
         }
 
+        //canvas.save();
         drawMyPoint(lastLocation, mountWashington, canvas);
+       //canvas.restore();
         drawMyPoint(lastLocation, mountWashington2, canvas);
     }
 
@@ -127,7 +129,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                 paint.setColor(Color.RED);
 
                 // make our line big enough to draw regardless of rotation and translation
-                canvas.drawLine(0f - canvas.getHeight(), canvas.getHeight() / 2, canvas.getWidth() + canvas.getHeight(), canvas.getHeight() / 2, paint);
+                //canvas.drawLine(0f - canvas.getHeight(), canvas.getHeight() / 2, canvas.getWidth() + canvas.getHeight(), canvas.getHeight() / 2, paint);
 
 
                 // now translate the dx
