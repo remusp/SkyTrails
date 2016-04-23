@@ -89,6 +89,11 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
         camera.setParameters(parameters);
         camera.startPreview();
+
+        if (overlayView != null) {
+            overlayView.setHorizontalFOV(horizontalFOV);
+            overlayView.setVerticalFOV(verticalFOV);
+        }
     }
 
     @Override
