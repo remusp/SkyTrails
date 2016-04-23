@@ -18,22 +18,26 @@ import android.view.SurfaceView;
 
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback, LocationListener {
 
-	Camera camera;
-	SurfaceView surfaceView;
-	SurfaceHolder surfaceHolder;
+    Camera camera;
+    SurfaceView surfaceView;
+    SurfaceHolder surfaceHolder;
 
-	CameraOverlayView overlayView;
+    CameraOverlayView overlayView;
+    private PointDao pointsDao;
 
-	@Override
-	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        pointsDao = new PointDaoImpl();
 
-		overlayView = (CameraOverlayView) findViewById(R.id.surfaceViewOverlay);
+        overlayView = (CameraOverlayView) findViewById(R.id.surfaceViewOverlay);
 
-		surfaceView = (SurfaceView) findViewById(R.id.surfaceViewCamera);
-		surfaceHolder = surfaceView.getHolder();
-		surfaceHolder.addCallback(this);
+        setPointsToDraw(overlayView);
+
+        surfaceView = (SurfaceView) findViewById(R.id.surfaceViewCamera);
+        surfaceHolder = surfaceView.getHolder();
+        surfaceHolder.addCallback(this);
         LocationManager locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
 
@@ -50,38 +54,48 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
         locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
     }
 
-	@Override
-	public void surfaceCreated(SurfaceHolder holder) {
-		try {
-			camera = Camera.open();
-			setCameraDisplayOrientation(this, Camera.CameraInfo.CAMERA_FACING_BACK, camera);
-			camera.setPreviewDisplay(holder);
+    private void setPointsToDraw(CameraOverlayView overlayView) {
+        try {
+            overlayView.setPointsToDraw(pointsDao.createPoints(getAssets().open("points.json")));
+        } catch (Exception ex) {
+            //
+            ex.printStackTrace();
+        }
 
-		} catch (Exception e) {
-			Log.d("Surface created", e.getMessage());
-		}
-	}
+    }
 
-	@Override
-	public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
-		Camera.Parameters parameters = camera.getParameters();
-		parameters.getSupportedPreviewSizes();
+    @Override
+    public void surfaceCreated(SurfaceHolder holder) {
+        try {
+            camera = Camera.open();
+            setCameraDisplayOrientation(this, Camera.CameraInfo.CAMERA_FACING_BACK, camera);
+            camera.setPreviewDisplay(holder);
 
-		float verticalFOV = parameters.getVerticalViewAngle();
-		float horizontalFOV = parameters.getHorizontalViewAngle();
+        } catch (Exception e) {
+            Log.d("Surface created", e.getMessage());
+        }
+    }
 
-		Log.d("FOV v", String.valueOf(verticalFOV));
-		Log.d("FOV h", String.valueOf(horizontalFOV));
+    @Override
+    public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
+        Camera.Parameters parameters = camera.getParameters();
+        parameters.getSupportedPreviewSizes();
 
-		camera.setParameters(parameters);
-		camera.startPreview();
-	}
+        float verticalFOV = parameters.getVerticalViewAngle();
+        float horizontalFOV = parameters.getHorizontalViewAngle();
 
-	@Override
-	public void surfaceDestroyed(SurfaceHolder holder) {
-		camera.stopPreview();
-		camera.release();
-	}
+        Log.d("FOV v", String.valueOf(verticalFOV));
+        Log.d("FOV h", String.valueOf(horizontalFOV));
+
+        camera.setParameters(parameters);
+        camera.startPreview();
+    }
+
+    @Override
+    public void surfaceDestroyed(SurfaceHolder holder) {
+        camera.stopPreview();
+        camera.release();
+    }
 
     @Override
     public void onLocationChanged(Location location) {
@@ -103,28 +117,36 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
     }
 
-	private void setCameraDisplayOrientation(Activity activity,
-											 int cameraId, android.hardware.Camera camera) {
-		android.hardware.Camera.CameraInfo info =
-				new android.hardware.Camera.CameraInfo();
-		android.hardware.Camera.getCameraInfo(cameraId, info);
-		int rotation = activity.getWindowManager().getDefaultDisplay()
-				.getRotation();
-		int degrees = 0;
-		switch (rotation) {
-			case Surface.ROTATION_0: degrees = 0; break;
-			case Surface.ROTATION_90: degrees = 90; break;
-			case Surface.ROTATION_180: degrees = 180; break;
-			case Surface.ROTATION_270: degrees = 270; break;
-		}
+    private void setCameraDisplayOrientation(Activity activity,
+                                             int cameraId, android.hardware.Camera camera) {
+        android.hardware.Camera.CameraInfo info =
+                new android.hardware.Camera.CameraInfo();
+        android.hardware.Camera.getCameraInfo(cameraId, info);
+        int rotation = activity.getWindowManager().getDefaultDisplay()
+                .getRotation();
+        int degrees = 0;
+        switch (rotation) {
+            case Surface.ROTATION_0:
+                degrees = 0;
+                break;
+            case Surface.ROTATION_90:
+                degrees = 90;
+                break;
+            case Surface.ROTATION_180:
+                degrees = 180;
+                break;
+            case Surface.ROTATION_270:
+                degrees = 270;
+                break;
+        }
 
-		int result;
-		if (info.facing == Camera.CameraInfo.CAMERA_FACING_FRONT) {
-			result = (info.orientation + degrees) % 360;
-			result = (360 - result) % 360;  // compensate the mirror
-		} else {  // back-facing
-			result = (info.orientation - degrees + 360) % 360;
-	}
-		camera.setDisplayOrientation(result);
-	}
+        int result;
+        if (info.facing == Camera.CameraInfo.CAMERA_FACING_FRONT) {
+            result = (info.orientation + degrees) % 360;
+            result = (360 - result) % 360;  // compensate the mirror
+        } else {  // back-facing
+            result = (info.orientation - degrees + 360) % 360;
+        }
+        camera.setDisplayOrientation(result);
+    }
 }
