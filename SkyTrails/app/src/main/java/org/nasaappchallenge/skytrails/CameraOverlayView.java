@@ -24,6 +24,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+import java.util.LinkedList;
 import java.util.List;
 
 public class CameraOverlayView extends View implements SensorEventListener, LocationListener {
@@ -43,6 +44,9 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
     private float horizontalFOV;
 
     private List<PointDTO> pointsToDraw;
+
+    private LinkedList<float[]> previousGravity = new LinkedList<float[]>();
+    private LinkedList<float[]> previousGeomag = new LinkedList<float[]>();
 
 
     public CameraOverlayView(Context context, AttributeSet attrs) {
@@ -194,14 +198,54 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
         // Gets the value of the sensor that has been changed
         switch (event.sensor.getType()) {
             case Sensor.TYPE_ACCELEROMETER:
-                gravity = event.values.clone();
+                previousGravity.add(event.values.clone());
+                gravity = calculateGravity();
                 break;
             case Sensor.TYPE_MAGNETIC_FIELD:
-                geomag = event.values.clone();
+                previousGeomag.add(event.values.clone());
+                geomag = calculateGeomag();
                 break;
         }
 
         this.invalidate();
+    }
+
+    private float[] calculateGravity(){
+        if (previousGravity.size() > 10) {
+            previousGravity.removeFirst();
+        }
+
+        float[] finalGravity = new float[3];
+        for (float[] gravity : previousGravity) {
+            finalGravity[0] += gravity[0];
+            finalGravity[1] += gravity[1];
+            finalGravity[2] += gravity[2];
+        }
+
+        finalGravity[0] /= previousGravity.size();
+        finalGravity[1] /= previousGravity.size();
+        finalGravity[2] /= previousGravity.size();
+
+        return finalGravity;
+    }
+
+    private float[] calculateGeomag(){
+        if (previousGeomag.size() > 10) {
+            previousGeomag.removeFirst();
+        }
+
+        float[] finalGeomag = new float[3];
+        for (float[] geomag : previousGeomag) {
+            finalGeomag[0] += geomag[0];
+            finalGeomag[1] += geomag[1];
+            finalGeomag[2] += geomag[2];
+        }
+
+        finalGeomag[0] /= previousGeomag.size();
+        finalGeomag[1] /= previousGeomag.size();
+        finalGeomag[2] /= previousGeomag.size();
+
+        return finalGeomag;
     }
 
     @Override
