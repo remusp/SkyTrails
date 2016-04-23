@@ -34,6 +34,15 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 	public CameraOverlayView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 
+		SensorManager sensors = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);
+		Sensor accelSensor = sensors.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+		Sensor compassSensor = sensors.getDefaultSensor(Sensor.TYPE_MAGNETIC_FIELD);
+		Sensor gyroSensor = sensors.getDefaultSensor(Sensor.TYPE_GYROSCOPE);
+
+		boolean isAccelAvailable = sensors.registerListener(this, accelSensor, SensorManager.SENSOR_DELAY_NORMAL);
+		boolean isCompassAvailable = sensors.registerListener(this, compassSensor, SensorManager.SENSOR_DELAY_NORMAL);
+		boolean isGyroAvailable = sensors.registerListener(this, gyroSensor, SensorManager.SENSOR_DELAY_NORMAL);
+
 		LocationManager locationManager = (LocationManager) context.getSystemService(Context.LOCATION_SERVICE);
 		Criteria criteria = new Criteria();
 		criteria.setAccuracy(Criteria.ACCURACY_FINE);
@@ -54,10 +63,17 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 			return;
 		}
 		locationManager.requestLocationUpdates(best, 100, 0, this);
+
+		lastLocation = getLastBestLocation(context, locationManager);
 	}
 
 	protected void onDraw(Canvas canvas) {
 		drawMyStuff(canvas);
+
+		if (lastLocation == null || gravity == null || geomag == null) {
+			return;
+		}
+
 		float curBearingToMW = lastLocation.bearingTo(mountWashington);
 
 		// compute rotation matrix
@@ -84,6 +100,31 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 				// orientation vector
 				orientation = new float[3];
 				SensorManager.getOrientation(cameraRotation, orientation);
+
+				float verticalFOV = 47.4366F;
+				float horizontalFOV = 60.0848F;
+
+				// use roll for screen rotation
+				canvas.rotate((float) (0.0f - Math.toDegrees(orientation[2])));
+				// Translate, but normalize for the FOV of the camera -- basically, pixels per degree, times degrees == pixels
+				float dy = (float) ((canvas.getWidth() / horizontalFOV) * (Math.toDegrees(orientation[0]) - curBearingToMW));
+				float dx = (float) ((canvas.getHeight() / verticalFOV) * Math.toDegrees(orientation[1]));
+
+				// wait to translate the dx so the horizon doesn't get pushed off
+				canvas.translate(0.0f, 0.0f - dy);
+
+				Paint paint = new Paint();
+				paint.setColor(Color.RED);
+
+				// make our line big enough to draw regardless of rotation and translation
+				canvas.drawLine(0f - canvas.getHeight(), canvas.getHeight() / 2, canvas.getWidth() + canvas.getHeight(), canvas.getHeight() / 2, paint);
+
+
+				// now translate the dx
+				canvas.translate(0.0f - dx, 0.0f);
+
+				// draw our point -- we've rotated and translated this to the right spot already
+				canvas.drawCircle(canvas.getWidth() / 2, canvas.getHeight() / 2, 8.0f, paint);
 			}
 		}
 	}
@@ -138,6 +179,44 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 	@Override
 	public void onAccuracyChanged(Sensor sensor, int accuracy) {
 
+	}
+
+	/**
+	 * Get last location
+	 *
+	 * @return last location
+	 */
+	private Location getLastBestLocation(Context context, LocationManager locationManager) {
+
+		if (ActivityCompat.checkSelfPermission(context, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(context, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+			// TODO: Consider calling
+			//    ActivityCompat#requestPermissions
+			// here to request the missing permissions, and then overriding
+			//   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+			//                                          int[] grantResults)
+			// to handle the case where the user grants the permission. See the documentation
+			// for ActivityCompat#requestPermissions for more details.
+			return null;
+		}
+		Location locationGPS = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
+		Location locationNet = locationManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
+
+		long GPSLocationTime = 0;
+		if (locationGPS != null) {
+			GPSLocationTime = locationGPS.getTime();
+		}
+
+		long NetLocationTime = 0;
+
+		if (locationNet != null) {
+			NetLocationTime = locationNet.getTime();
+		}
+
+		if (GPSLocationTime - NetLocationTime > 0) {
+			return locationGPS;
+		} else {
+			return locationNet;
+		}
 	}
 
 	private final static Location mountWashington = new Location("manual");

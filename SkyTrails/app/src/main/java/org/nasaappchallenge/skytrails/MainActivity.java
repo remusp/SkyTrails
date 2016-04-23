@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
             // for ActivityCompat#requestPermissions for more details.
             return;
         }
-        locationManager.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 0, 0, this);
+        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, this);
     }
 
 	@Override
@@ -63,6 +63,13 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 	public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
 		Camera.Parameters parameters = camera.getParameters();
 		parameters.getSupportedPreviewSizes();
+
+		float verticalFOV = parameters.getVerticalViewAngle();
+		float horizontalFOV = parameters.getHorizontalViewAngle();
+
+		Log.d("FOV v", String.valueOf(verticalFOV));
+		Log.d("FOV h", String.valueOf(horizontalFOV));
+
 		camera.setParameters(parameters);
 		camera.startPreview();
 	}
