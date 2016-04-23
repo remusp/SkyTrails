@@ -87,6 +87,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
             Location pointLocation = new Location("manual");
             pointLocation.setLongitude(point.getLon());
             pointLocation.setLatitude(point.getLat());
+            pointLocation.setAltitude(point.getAltitude());
 
             drawMyPoint(lastLocation, pointLocation, canvas);
         }

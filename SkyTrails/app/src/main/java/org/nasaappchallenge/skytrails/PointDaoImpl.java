@@ -27,6 +27,7 @@ public class PointDaoImpl implements PointDao {
                 PointDTO point = new PointDTO();
                 point.setLat(jsonObject.getDouble("lat"));
                 point.setLon(jsonObject.getDouble("lon"));
+                point.setAltitude(jsonObject.getDouble("feets"));
                 points.add(point);
             }
         } catch (Exception ex) {
