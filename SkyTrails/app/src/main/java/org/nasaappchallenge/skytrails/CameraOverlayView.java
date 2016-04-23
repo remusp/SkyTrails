@@ -39,6 +39,9 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
     private double longitude;
     private Location location;
 
+    private float verticalFOV;
+    private float horizontalFOV;
+
     private List<PointDTO> pointsToDraw;
 
 
@@ -120,9 +123,6 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                 // orientation vector
                 orientation = new float[3];
                 SensorManager.getOrientation(cameraRotation, orientation);
-
-                float verticalFOV = 47.4366F;
-                float horizontalFOV = 60.0848F;
 
                 // use roll for screen rotation
                 canvas.rotate((float) (0.0f - Math.toDegrees(orientation[2])));
@@ -303,5 +303,21 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 
     public void setPointsToDraw(List<PointDTO> points) {
         this.pointsToDraw = points;
+    }
+
+    public float getVerticalFOV() {
+        return verticalFOV;
+    }
+
+    public void setVerticalFOV(float verticalFOV) {
+        this.verticalFOV = verticalFOV;
+    }
+
+    public float getHorizontalFOV() {
+        return horizontalFOV;
+    }
+
+    public void setHorizontalFOV(float horizontalFOV) {
+        this.horizontalFOV = horizontalFOV;
     }
 }
