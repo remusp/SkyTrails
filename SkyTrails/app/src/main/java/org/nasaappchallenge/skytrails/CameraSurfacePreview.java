@@ -11,11 +11,11 @@ import android.view.SurfaceView;
 public class CameraSurfacePreview extends SurfaceView implements SurfaceHolder.Callback {
 	public CameraSurfacePreview(Context context) {
 		super(context);
+
 	}
 
 	@Override
 	public void surfaceCreated(SurfaceHolder holder) {
-
 	}
 
 	@Override
