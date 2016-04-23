@@ -21,7 +21,6 @@ import android.location.LocationManager;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 
 public class CameraOverlayView extends View implements SensorEventListener, LocationListener {
@@ -68,8 +67,6 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 	}
 
 	protected void onDraw(Canvas canvas) {
-		drawMyStuff(canvas);
-
 		if (lastLocation == null || gravity == null || geomag == null) {
 			return;
 		}
@@ -107,8 +104,8 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 				// use roll for screen rotation
 				canvas.rotate((float) (0.0f - Math.toDegrees(orientation[2])));
 				// Translate, but normalize for the FOV of the camera -- basically, pixels per degree, times degrees == pixels
-				float dy = (float) ((canvas.getWidth() / horizontalFOV) * (Math.toDegrees(orientation[0]) - curBearingToMW));
-				float dx = (float) ((canvas.getHeight() / verticalFOV) * Math.toDegrees(orientation[1]));
+				float dx = (float) ((canvas.getWidth() / horizontalFOV) * (Math.toDegrees(orientation[0]) - curBearingToMW));
+				float dy = (float) ((canvas.getHeight() / verticalFOV) * Math.toDegrees(orientation[1]));
 
 				// wait to translate the dx so the horizon doesn't get pushed off
 				canvas.translate(0.0f, 0.0f - dy);
@@ -127,14 +124,6 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 				canvas.drawCircle(canvas.getWidth() / 2, canvas.getHeight() / 2, 8.0f, paint);
 			}
 		}
-	}
-
-	private void drawMyStuff(final Canvas canvas) {
-		Log.i(TAG, "Drawing...");
-		Paint paint = new Paint();
-		paint.setColor(Color.RED);
-		canvas.drawLine(0, 0, 200, 200, paint);
-		canvas.drawLine(20, 0, 0, 200, paint);
 	}
 
 	@Override
