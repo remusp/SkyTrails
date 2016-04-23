@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
     private void setPointsToDraw(CameraOverlayView overlayView) {
         try {
-            overlayView.setPointsToDraw(pointsDao.createPoints(getAssets().open("points.json")));
+            overlayView.setPointsToDraw(pointsDao.createPoints(getAssets().open("madrid-antalya.json")));
         } catch (Exception ex) {
             //
             ex.printStackTrace();
