@@ -71,7 +71,12 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 			return;
 		}
 
-		float curBearingToMW = lastLocation.bearingTo(mountWashington);
+		drawMyPoint(lastLocation, mountWashington, canvas);
+		drawMyPoint(lastLocation, mountWashington2, canvas);
+	}
+
+	private void drawMyPoint(Location location1, Location location2, Canvas canvas){
+		float curBearingToMW = location1.bearingTo(location2);
 
 		// compute rotation matrix
 		float rotation[] = new float[9];
@@ -122,6 +127,11 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 
 				// draw our point -- we've rotated and translated this to the right spot already
 				canvas.drawCircle(canvas.getWidth() / 2, canvas.getHeight() / 2, 8.0f, paint);
+
+				// Undo
+				canvas.translate(0.0f + dx, 0.0f);
+				canvas.translate(0.0f, 0.0f + dy);
+				canvas.rotate((float) (0.0f + Math.toDegrees(orientation[2])));
 			}
 		}
 	}
@@ -213,6 +223,14 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
 	static {
 		mountWashington.setLatitude(46.775472d);
 		mountWashington.setLongitude(23.595470d);
+		mountWashington.setAltitude(1916.5d);
+	}
+
+	private final static Location mountWashington2 = new Location("manual2");
+
+	static {
+		mountWashington.setLatitude(46.788856d);
+		mountWashington.setLongitude(23.708677d);
 		mountWashington.setAltitude(1916.5d);
 	}
 }
