@@ -27,11 +27,11 @@ import android.view.View;
 import java.util.List;
 
 public class CameraOverlayView extends View implements SensorEventListener, LocationListener {
-    
+
     private static final String TAG = "CameraOverlayView";
     private static final long MIN_TIME_BW_UPDATES = 100;
     private static final float MIN_DISTANCE_CHANGE_FOR_UPDATES = 100f;
-	private Location lastLocation = staticLocation;
+    private Location lastLocation = staticLocation;
     float[] gravity;
     float[] geomag;
     private boolean canGetLocation;
@@ -39,7 +39,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
     private double longitude;
     private Location location;
 
-	private List<PointDTO> pointsToDraw;
+    private List<PointDTO> pointsToDraw;
 
 
     public CameraOverlayView(Context context, AttributeSet attrs) {
@@ -87,7 +87,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
             Location pointLocation = new Location("manual");
             pointLocation.setLongitude(point.getLon());
             pointLocation.setLatitude(point.getLat());
-            pointLocation.setAltitude(point.getAltitude());
+            pointLocation.setAltitude(point.getAltitude() * 0.3d);
 
             drawMyPoint(lastLocation, pointLocation, canvas);
         }
@@ -144,18 +144,18 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                 // now translate the dx
                 canvas.translate(0.0f - dx, 0.0f);
 
-				// This is MAGIC!!!
-				float distanceToPoint = location1.distanceTo(location2);
-				double angleForPoint = -Math.toDegrees(Math.atan2(location2.getAltitude(), (double) distanceToPoint));
-				Log.d("ANGLE", String.valueOf(angleForPoint));
+                // This is MAGIC!!!
+                float distanceToPoint = location1.distanceTo(location2);
+                double angleForPoint = -Math.toDegrees(Math.atan2(location2.getAltitude(), (double) distanceToPoint));
+                Log.d("ANGLE", String.valueOf(angleForPoint));
 
-				// The REAL THING!!!
-				float renderedHeight = (float) angleForPoint * ((float) canvas.getHeight() / verticalFOV) + canvas.getHeight() / 2;
-				Log.d("ANGLE h", String.valueOf(renderedHeight));
-				Log.d("ANGLE max h", String.valueOf(canvas.getHeight()));
+                // The REAL THING!!!
+                float renderedHeight = (float) angleForPoint * ((float) canvas.getHeight() / verticalFOV) + canvas.getHeight() / 2;
+                Log.d("ANGLE h", String.valueOf(renderedHeight));
+                Log.d("ANGLE max h", String.valueOf(canvas.getHeight()));
 
                 // draw our point -- we've rotated and translated this to the right spot already
-				canvas.drawCircle(canvas.getWidth() / 2, renderedHeight, 20.0f, paint);
+                canvas.drawCircle(canvas.getWidth() / 2, renderedHeight, 20.0f, paint);
 
                 // Undo
                 canvas.translate(0.0f + dx, 0.0f);
@@ -282,7 +282,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
     static {
         mountWashington.setLatitude(46.777903d);
         mountWashington.setLongitude(23.596767d);
-		mountWashington.setAltitude(1000d);
+        mountWashington.setAltitude(1000d);
     }
 
     private final static Location mountWashington2 = new Location("manual2");
