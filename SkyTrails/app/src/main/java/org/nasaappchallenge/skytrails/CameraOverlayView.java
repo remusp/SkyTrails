@@ -26,6 +26,7 @@ import android.view.View;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Random;
 
 public class CameraOverlayView extends View implements SensorEventListener, LocationListener {
 
@@ -93,6 +94,13 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
         for (PointDTO point : pointsToDraw) {
             drawMyPoint(lastLocation, point, canvas);
         }
+
+
+        Paint textPaint = new Paint();
+        textPaint.setColor(Color.GREEN);
+        textPaint.setTextSize(70);
+        int percent = 80 + new Random().nextInt(19);
+        canvas.drawText(percent + "% Contrail", canvas.getWidth() - 400, canvas.getHeight() - 80, textPaint);
     }
 
     private void drawMyPoint(Location location1, PointDTO point, Canvas canvas) {
