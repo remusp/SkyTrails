@@ -16,6 +16,9 @@ import android.view.Surface;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback, LocationListener {
 
     Camera camera;
@@ -56,7 +59,15 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
     private void setPointsToDraw(CameraOverlayView overlayView) {
         try {
-            overlayView.setPointsToDraw(pointsDao.createPoints(getAssets().open("mancester-abu-dhabi.json")));
+            List<PointDTO> finalPointList = new ArrayList<>();
+
+            List<PointDTO> flight1Points = pointsDao.createPoints(getAssets().open("timisoara-bucuresti.json"));
+            finalPointList.addAll(flight1Points);
+
+            List<PointDTO> flight2Points = pointsDao.createPoints(getAssets().open("mancester-abu-dhabi.json"));
+            finalPointList.addAll(flight2Points);
+
+            overlayView.setPointsToDraw(finalPointList);
         } catch (Exception ex) {
             //
             ex.printStackTrace();

@@ -154,12 +154,12 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                 // This is MAGIC!!!
                 float distanceToPoint = location1.distanceTo(pointLocation);
                 double angleForPoint = -Math.toDegrees(Math.atan2(pointLocation.getAltitude(), (double) distanceToPoint));
-                Log.d("ANGLE", String.valueOf(angleForPoint));
+//                Log.d("ANGLE", String.valueOf(angleForPoint));
 
                 // The REAL THING!!!
                 float renderedHeight = (float) angleForPoint * ((float) canvas.getHeight() / verticalFOV) + canvas.getHeight() / 2;
-                Log.d("ANGLE h", String.valueOf(renderedHeight));
-                Log.d("ANGLE max h", String.valueOf(canvas.getHeight()));
+//                Log.d("ANGLE h", String.valueOf(renderedHeight));
+//                Log.d("ANGLE max h", String.valueOf(canvas.getHeight()));
 
                 // draw our point -- we've rotated and translated this to the right spot already
                 float circleRadius = 20f;
@@ -192,7 +192,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
         int finalRed = altitudePercent > 0.5D ? maxLimit : (int) (maxLimit * altitudePercent);
         int finalGreen = altitudePercent > 0.5D ? maxLimit - (int) (maxLimit * altitudePercent) : maxLimit;
         int finalBlue = 0;
-        Log.d("COLOR", "Color : r=" + finalRed + ", g=" + finalGreen + ", b=" + finalBlue);
+//        Log.d("COLOR", "Color : r=" + finalRed + ", g=" + finalGreen + ", b=" + finalBlue);
         return Color.rgb(finalRed, finalGreen, finalBlue);
     }
 
@@ -316,7 +316,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                             LocationManager.NETWORK_PROVIDER,
                             MIN_TIME_BW_UPDATES,
                             MIN_DISTANCE_CHANGE_FOR_UPDATES, this);
-                    Log.d("Network", "Network Enabled");
+//                    Log.d("Network", "Network Enabled");
                     location = locationManager.getLastKnownLocation(LocationManager.NETWORK_PROVIDER);
                     if (location != null) {
                         latitude = location.getLatitude();
@@ -330,7 +330,7 @@ public class CameraOverlayView extends View implements SensorEventListener, Loca
                                 LocationManager.GPS_PROVIDER,
                                 MIN_TIME_BW_UPDATES,
                                 MIN_DISTANCE_CHANGE_FOR_UPDATES, this);
-                        Log.d("GPS", "GPS Enabled");
+//                        Log.d("GPS", "GPS Enabled");
                         location = locationManager
                                 .getLastKnownLocation(LocationManager.GPS_PROVIDER);
                         if (location != null) {
